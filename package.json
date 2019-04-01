@@ -16,8 +16,19 @@
   "author": "Ken K. Murei",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
     "express": "^4.16.3",
-    "mongoose": "^5.2.7"
+    "knex": "^0.16.3",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.16",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.3",
+    "pg": "^7.8.1",
+    "shelljs": "^0.8.3",
+    "sqlite3": "^4.0.6",
+    "striptags": "^3.1.1"
   }
 }

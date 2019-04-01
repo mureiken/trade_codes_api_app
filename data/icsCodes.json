@@ -1,0 +1,5529 @@
+﻿[
+	{
+		"value": "01",
+		"label": "01 Generalities. Terminology. Standardization. Documentation"
+	},
+	{
+		"value": "03",
+		"label": "03 Services. Company organization"
+	},
+	{
+		"value": "07",
+		"label": "07 Natural and applied sciences"
+	},
+	{
+		"value": "11",
+		"label": "11 Health care technology"
+	},
+	{
+		"value": "13",
+		"label": "13 Environment. Health protection. Safety"
+	},
+	{
+		"value": "17",
+		"label": "17 Metrology and measurement. Physical phenomena"
+	},
+	{
+		"value": "19",
+		"label": "19 Testing"
+	},
+	{
+		"value": "21",
+		"label": "21 Mechanical systems and components for general use"
+	},
+	{
+		"value": "23",
+		"label": "23 Fluid systems and components for general use"
+	},
+	{
+		"value": "25",
+		"label": "25 Manufacturing engineering"
+	},
+	{
+		"value": "27",
+		"label": "27 Energy and heat transfer engineering"
+	},
+	{
+		"value": "29",
+		"label": "29 Electrical engineering"
+	},
+	{
+		"value": "31",
+		"label": "31 Electronics"
+	},
+	{
+		"value": "33",
+		"label": "33 Telecommunications. Audio and video engineering"
+	},
+	{
+		"value": "35",
+		"label": "35 Information technology"
+	},
+	{
+		"value": "37",
+		"label": "37 Image technology"
+	},
+	{
+		"value": "39",
+		"label": "39 Precision mechanics. Jewellery"
+	},
+	{
+		"value": "43",
+		"label": "43 Road vehicles engineering"
+	},
+	{
+		"value": "45",
+		"label": "45 Railway engineering"
+	},
+	{
+		"value": "47",
+		"label": "47 Shipbuilding and marine structures"
+	},
+	{
+		"value": "49",
+		"label": "49 Aircraft and space vehicle engineering"
+	},
+	{
+		"value": "53",
+		"label": "53 Materials handling equipment"
+	},
+	{
+		"value": "55",
+		"label": "55 Packaging and distribution of goods"
+	},
+	{
+		"value": "59",
+		"label": "59 Textile and leather technology"
+	},
+	{
+		"value": "61",
+		"label": "61 Clothing industry"
+	},
+	{
+		"value": "65",
+		"label": "65 Agriculture"
+	},
+	{
+		"value": "67",
+		"label": "67 Food technology"
+	},
+	{
+		"value": "71",
+		"label": "71 Chemical technology"
+	},
+	{
+		"value": "73",
+		"label": "73 Mining and minerals"
+	},
+	{
+		"value": "75",
+		"label": "75 Petroleum and related technologies"
+	},
+	{
+		"value": "77",
+		"label": "77 Metallurgy"
+	},
+	{
+		"value": "79",
+		"label": "79 Wood technology"
+	},
+	{
+		"value": "81",
+		"label": "81 Glass and ceramics industries"
+	},
+	{
+		"value": "83",
+		"label": "83 Rubber and plastic industries"
+	},
+	{
+		"value": "85",
+		"label": "85 Paper technology"
+	},
+	{
+		"value": "87",
+		"label": "87 Paint and colour industries"
+	},
+	{
+		"value": "91",
+		"label": "91 Construction materials and building"
+	},
+	{
+		"value": "93",
+		"label": "93 Civil engineering"
+	},
+	{
+		"value": "95",
+		"label": "95 Military affairs. Military engineering. Weapons"
+	},
+	{
+		"value": "97",
+		"label": "97 Domestic and commercial equipment. Entertainment. Sports"
+	},
+	{
+		"value": "07.020",
+		"label": "07.020 Mathematics"
+	},
+	{
+		"value": "07.030",
+		"label": "07.030 Physics. Chemistry"
+	},
+	{
+		"value": "07.040",
+		"label": "07.040 Astronomy. Geodesy. Geography"
+	},
+	{
+		"value": "07.060",
+		"label": "07.060 Geology. Meteorology. Hydrology"
+	},
+	{
+		"value": "07.080",
+		"label": "07.080 Biology. Botany. Zoology"
+	},
+	{
+		"value": "07.100",
+		"label": "07.100 Microbiology"
+	},
+	{
+		"value": "07.120",
+		"label": "07.120 Nanotechnologies"
+	},
+	{
+		"value": "07.140",
+		"label": "07.140 Forensic science"
+	},
+	{
+		"value": "01.020",
+		"label": "01.020 Terminology (principles and coordination)"
+	},
+	{
+		"value": "01.040",
+		"label": "01.040 Vocabularies"
+	},
+	{
+		"value": "01.060",
+		"label": "01.060 Quantities and units"
+	},
+	{
+		"value": "01.070",
+		"label": "01.070 Colour coding"
+	},
+	{
+		"value": "01.075",
+		"label": "01.075 Character symbols"
+	},
+	{
+		"value": "01.080",
+		"label": "01.080 Graphical symbols"
+	},
+	{
+		"value": "01.100",
+		"label": "01.100 Technical drawings"
+	},
+	{
+		"value": "01.110",
+		"label": "01.110 Technical product documentation"
+	},
+	{
+		"value": "01.120",
+		"label": "01.120 Standardization. General rules"
+	},
+	{
+		"value": "01.140",
+		"label": "01.140 Information sciences. Publishing"
+	},
+	{
+		"value": "03.020",
+		"label": "03.020 Sociology. Demography"
+	},
+	{
+		"value": "03.040",
+		"label": "03.040 Labour. Employment"
+	},
+	{
+		"value": "03.060",
+		"label": "03.060 Finances. Banking. Monetary systems. Insurance"
+	},
+	{
+		"value": "03.080",
+		"label": "03.080 Services"
+	},
+	{
+		"value": "03.100",
+		"label": "03.100 Company organization and management. Management systems"
+	},
+	{
+		"value": "03.120",
+		"label": "03.120 Quality"
+	},
+	{
+		"value": "03.140",
+		"label": "03.140 Patents. Intellectual property"
+	},
+	{
+		"value": "03.160",
+		"label": "03.160 Law. Administration"
+	},
+	{
+		"value": "03.180",
+		"label": "03.180 Education"
+	},
+	{
+		"value": "03.200",
+		"label": "03.200 Leisure. Tourism"
+	},
+	{
+		"value": "03.220",
+		"label": "03.220 Transport"
+	},
+	{
+		"value": "03.240",
+		"label": "03.240 Postal services"
+	},
+	{
+		"value": "11.020",
+		"label": "11.020 Medical sciences and health care facilities in general"
+	},
+	{
+		"value": "11.040",
+		"label": "11.040 Medical equipment"
+	},
+	{
+		"value": "11.060",
+		"label": "11.060 Dentistry"
+	},
+	{
+		"value": "11.080",
+		"label": "11.080 Sterilization and disinfection"
+	},
+	{
+		"value": "11.100",
+		"label": "11.100 Laboratory medicine"
+	},
+	{
+		"value": "11.120",
+		"label": "11.120 Pharmaceutics"
+	},
+	{
+		"value": "11.140",
+		"label": "11.140 Hospital equipment"
+	},
+	{
+		"value": "11.160",
+		"label": "11.160 First aid"
+	},
+	{
+		"value": "11.180",
+		"label": "11.180 Aids for disabled or handicapped persons"
+	},
+	{
+		"value": "11.200",
+		"label": "11.200 Birth control. Mechanical contraceptives"
+	},
+	{
+		"value": "11.220",
+		"label": "11.220 Veterinary medicine"
+	},
+	{
+		"value": "13.020",
+		"label": "13.020 Environmental protection"
+	},
+	{
+		"value": "13.030",
+		"label": "13.030 Wastes"
+	},
+	{
+		"value": "13.040",
+		"label": "13.040 Air quality"
+	},
+	{
+		"value": "13.060",
+		"label": "13.060 Water quality"
+	},
+	{
+		"value": "13.080",
+		"label": "13.080 Soil quality. Pedology"
+	},
+	{
+		"value": "13.100",
+		"label": "13.100 Occupational safety. Industrial hygiene"
+	},
+	{
+		"value": "13.110",
+		"label": "13.110 Safety of machinery"
+	},
+	{
+		"value": "13.120",
+		"label": "13.120 Domestic safety"
+	},
+	{
+		"value": "13.140",
+		"label": "13.140 Noise with respect to human beings"
+	},
+	{
+		"value": "13.160",
+		"label": "13.160 Vibration and shock with respect to human beings"
+	},
+	{
+		"value": "13.180",
+		"label": "13.180 Ergonomics"
+	},
+	{
+		"value": "13.200",
+		"label": "13.200 Accident and disaster control"
+	},
+	{
+		"value": "13.220",
+		"label": "13.220 Protection against fire"
+	},
+	{
+		"value": "13.230",
+		"label": "13.230 Explosion protection"
+	},
+	{
+		"value": "13.240",
+		"label": "13.240 Protection against excessive pressure"
+	},
+	{
+		"value": "13.260",
+		"label": "13.260 Protection against electric shock. Live working"
+	},
+	{
+		"value": "13.280",
+		"label": "13.280 Radiation protection"
+	},
+	{
+		"value": "13.300",
+		"label": "13.300 Protection against dangerous goods"
+	},
+	{
+		"value": "13.310",
+		"label": "13.310 Protection against crime"
+	},
+	{
+		"value": "13.320",
+		"label": "13.320 Alarm and warning systems"
+	},
+	{
+		"value": "13.340",
+		"label": "13.340 Protective equipment"
+	},
+	{
+		"value": "19.020",
+		"label": "19.020 Test conditions and procedures in general"
+	},
+	{
+		"value": "19.040",
+		"label": "19.040 Environmental testing"
+	},
+	{
+		"value": "19.060",
+		"label": "19.060 Mechanical testing"
+	},
+	{
+		"value": "19.080",
+		"label": "19.080 Electrical and electronic testing"
+	},
+	{
+		"value": "19.100",
+		"label": "19.100 Non-destructive testing"
+	},
+	{
+		"value": "19.120",
+		"label": "19.120 Particle size analysis. Sieving"
+	},
+	{
+		"value": "17.020",
+		"label": "17.020 Metrology and measurement in general"
+	},
+	{
+		"value": "17.040",
+		"label": "17.040 Linear and angular measurements"
+	},
+	{
+		"value": "17.060",
+		"label": "17.060 Measurement of volume"
+	},
+	{
+		"value": "17.080",
+		"label": "17.080 Measurement of time"
+	},
+	{
+		"value": "17.100",
+		"label": "17.100 Measurement of force"
+	},
+	{
+		"value": "17.120",
+		"label": "17.120 Measurement of fluid flow"
+	},
+	{
+		"value": "17.140",
+		"label": "17.140 Acoustics and acoustic measurements"
+	},
+	{
+		"value": "17.160",
+		"label": "17.160 Vibrations"
+	},
+	{
+		"value": "17.180",
+		"label": "17.180 Optics and optical measurements"
+	},
+	{
+		"value": "17.200",
+		"label": "17.200 Thermodynamics and temperature measurements"
+	},
+	{
+		"value": "17.220",
+		"label": "17.220 Electricity. Magnetism. Electrical and magnetic measurements"
+	},
+	{
+		"value": "17.240",
+		"label": "17.240 Radiation measurements"
+	},
+	{
+		"value": "21.020",
+		"label": "21.020 Characteristics and design of machines"
+	},
+	{
+		"value": "21.040",
+		"label": "21.040 Screw threads"
+	},
+	{
+		"value": "21.060",
+		"label": "21.060 Fasteners"
+	},
+	{
+		"value": "21.080",
+		"label": "21.080 Hinges"
+	},
+	{
+		"value": "21.100",
+		"label": "21.100 Bearings"
+	},
+	{
+		"value": "21.120",
+		"label": "21.120 Shafts and couplings"
+	},
+	{
+		"value": "21.140",
+		"label": "21.140 Seals"
+	},
+	{
+		"value": "21.160",
+		"label": "21.160 Springs"
+	},
+	{
+		"value": "21.180",
+		"label": "21.180 Housings"
+	},
+	{
+		"value": "21.200",
+		"label": "21.200 Gears"
+	},
+	{
+		"value": "21.220",
+		"label": "21.220 Flexible drives and transmissions"
+	},
+	{
+		"value": "21.240",
+		"label": "21.240 Rotary-reciprocating mechanisms and their parts"
+	},
+	{
+		"value": "21.260",
+		"label": "21.260 Lubrication systems"
+	},
+	{
+		"value": "23.020",
+		"label": "23.020 Fluid storage devices"
+	},
+	{
+		"value": "23.040",
+		"label": "23.040 Pipeline components and pipelines"
+	},
+	{
+		"value": "23.060",
+		"label": "23.060 Valves"
+	},
+	{
+		"value": "23.080",
+		"label": "23.080 Pumps"
+	},
+	{
+		"value": "23.100",
+		"label": "23.100 Fluid power systems"
+	},
+	{
+		"value": "23.120",
+		"label": "23.120 Ventilators. Fans. Air-conditioners"
+	},
+	{
+		"value": "23.140",
+		"label": "23.140 Compressors and pneumatic machines"
+	},
+	{
+		"value": "23.160",
+		"label": "23.160 Vacuum technology"
+	},
+	{
+		"value": "25.020",
+		"label": "25.020 Manufacturing forming processes"
+	},
+	{
+		"value": "25.030",
+		"label": "25.030 Additive manufacturing"
+	},
+	{
+		"value": "25.040",
+		"label": "25.040 Industrial automation systems"
+	},
+	{
+		"value": "25.060",
+		"label": "25.060 Machine tool systems"
+	},
+	{
+		"value": "25.080",
+		"label": "25.080 Machine tools"
+	},
+	{
+		"value": "25.100",
+		"label": "25.100 Cutting tools"
+	},
+	{
+		"value": "25.120",
+		"label": "25.120 Chipless working equipment"
+	},
+	{
+		"value": "25.140",
+		"label": "25.140 Hand-held tools"
+	},
+	{
+		"value": "25.160",
+		"label": "25.160 Welding"
+	},
+	{
+		"value": "25.180",
+		"label": "25.180 Industrial furnaces"
+	},
+	{
+		"value": "25.200",
+		"label": "25.200 Heat treatment"
+	},
+	{
+		"value": "25.220",
+		"label": "25.220 Surface treatment and coating"
+	},
+	{
+		"value": "27.010",
+		"label": "27.010 Energy and heat transfer engineering in general"
+	},
+	{
+		"value": "27.015",
+		"label": "27.015 Energy efficiency. Energy conservation in general"
+	},
+	{
+		"value": "27.020",
+		"label": "27.020 Internal combustion engines"
+	},
+	{
+		"value": "27.040",
+		"label": "27.040 Gas and steam turbines. Steam engines"
+	},
+	{
+		"value": "27.060",
+		"label": "27.060 Burners. Boilers"
+	},
+	{
+		"value": "27.070",
+		"label": "27.070 Fuel cells"
+	},
+	{
+		"value": "27.075",
+		"label": "27.075 Hydrogen technologies"
+	},
+	{
+		"value": "27.080",
+		"label": "27.080 Heat pumps"
+	},
+	{
+		"value": "27.100",
+		"label": "27.100 Power stations in general"
+	},
+	{
+		"value": "27.120",
+		"label": "27.120 Nuclear energy engineering"
+	},
+	{
+		"value": "27.140",
+		"label": "27.140 Hydraulic energy engineering"
+	},
+	{
+		"value": "27.160",
+		"label": "27.160 Solar energy engineering"
+	},
+	{
+		"value": "27.180",
+		"label": "27.180 Wind turbine energy systems"
+	},
+	{
+		"value": "27.190",
+		"label": "27.190 Biological sources and alternative sources of energy"
+	},
+	{
+		"value": "27.200",
+		"label": "27.200 Refrigerating technology"
+	},
+	{
+		"value": "27.220",
+		"label": "27.220 Heat recovery. Thermal insulation"
+	},
+	{
+		"value": "29.020",
+		"label": "29.020 Electrical engineering in general"
+	},
+	{
+		"value": "29.030",
+		"label": "29.030 Magnetic materials"
+	},
+	{
+		"value": "29.035",
+		"label": "29.035 Insulating materials"
+	},
+	{
+		"value": "29.040",
+		"label": "29.040 Insulating fluids"
+	},
+	{
+		"value": "29.045",
+		"label": "29.045 Semiconducting materials"
+	},
+	{
+		"value": "29.050",
+		"label": "29.050 Superconductivity and conducting materials"
+	},
+	{
+		"value": "29.060",
+		"label": "29.060 Electrical wires and cables"
+	},
+	{
+		"value": "29.080",
+		"label": "29.080 Insulation"
+	},
+	{
+		"value": "29.100",
+		"label": "29.100 Components for electrical equipment"
+	},
+	{
+		"value": "29.120",
+		"label": "29.120 Electrical accessories"
+	},
+	{
+		"value": "29.130",
+		"label": "29.130 Switchgear and controlgear"
+	},
+	{
+		"value": "29.140",
+		"label": "29.140 Lamps and related equipment"
+	},
+	{
+		"value": "29.160",
+		"label": "29.160 Rotating machinery"
+	},
+	{
+		"value": "29.180",
+		"label": "29.180 Transformers. Reactors"
+	},
+	{
+		"value": "29.200",
+		"label": "29.200 Rectifiers. Converters. Stabilized power supply"
+	},
+	{
+		"value": "29.220",
+		"label": "29.220 Galvanic cells and batteries"
+	},
+	{
+		"value": "29.240",
+		"label": "29.240 Power transmission and distribution networks"
+	},
+	{
+		"value": "29.260",
+		"label": "29.260 Electrical equipment for working in special conditions"
+	},
+	{
+		"value": "29.280",
+		"label": "29.280 Electric traction equipment"
+	},
+	{
+		"value": "33.020",
+		"label": "33.020 Telecommunications in general"
+	},
+	{
+		"value": "33.030",
+		"label": "33.030 Telecommunication services. Applications"
+	},
+	{
+		"value": "33.040",
+		"label": "33.040 Telecommunication systems"
+	},
+	{
+		"value": "33.050",
+		"label": "33.050 Telecommunication terminal equipment"
+	},
+	{
+		"value": "33.060",
+		"label": "33.060 Radiocommunications"
+	},
+	{
+		"value": "33.070",
+		"label": "33.070 Mobile services"
+	},
+	{
+		"value": "33.080",
+		"label": "33.080 Integrated Services Digital Network (ISDN)"
+	},
+	{
+		"value": "33.100",
+		"label": "33.100 Electromagnetic compatibility (EMC)"
+	},
+	{
+		"value": "33.120",
+		"label": "33.120 Components and accessories for telecommunications equipment"
+	},
+	{
+		"value": "33.140",
+		"label": "33.140 Special measuring equipment for use in telecommunications"
+	},
+	{
+		"value": "33.160",
+		"label": "33.160 Audio"
+	},
+	{
+		"value": "33.170",
+		"label": "33.170 Television and radio broadcasting"
+	},
+	{
+		"value": "33.180",
+		"label": "33.180 Fibre optic communications"
+	},
+	{
+		"value": "33.200",
+		"label": "33.200 Telecontrol. Telemetering"
+	},
+	{
+		"value": "31.020",
+		"label": "31.020 Electronic components in general"
+	},
+	{
+		"value": "31.040",
+		"label": "31.040 Resistors"
+	},
+	{
+		"value": "31.060",
+		"label": "31.060 Capacitors"
+	},
+	{
+		"value": "31.080",
+		"label": "31.080 Semiconductor devices"
+	},
+	{
+		"value": "31.100",
+		"label": "31.100 Electronic tubes"
+	},
+	{
+		"value": "31.120",
+		"label": "31.120 Electronic display devices"
+	},
+	{
+		"value": "31.140",
+		"label": "31.140 Piezoelectric devices"
+	},
+	{
+		"value": "31.160",
+		"label": "31.160 Electric filters"
+	},
+	{
+		"value": "31.180",
+		"label": "31.180 Printed circuits and boards"
+	},
+	{
+		"value": "31.190",
+		"label": "31.190 Electronic component assemblies"
+	},
+	{
+		"value": "31.200",
+		"label": "31.200 Integrated circuits. Microelectronics"
+	},
+	{
+		"value": "31.220",
+		"label": "31.220 Electromechanical components for electronic and telecommunications equipment"
+	},
+	{
+		"value": "31.240",
+		"label": "31.240 Mechanical structures for electronic equipment"
+	},
+	{
+		"value": "31.260",
+		"label": "31.260 Optoelectronics. Laser equipment"
+	},
+	{
+		"value": "35.020",
+		"label": "35.020 Information technology (IT) in general"
+	},
+	{
+		"value": "35.030",
+		"label": "35.030 IT Security"
+	},
+	{
+		"value": "35.040",
+		"label": "35.040 Information coding"
+	},
+	{
+		"value": "35.060",
+		"label": "35.060 Languages used in information technology"
+	},
+	{
+		"value": "35.080",
+		"label": "35.080 Software"
+	},
+	{
+		"value": "35.100",
+		"label": "35.100 Open systems interconnection (OSI)"
+	},
+	{
+		"value": "35.110",
+		"label": "35.110 Networking"
+	},
+	{
+		"value": "35.140",
+		"label": "35.140 Computer graphics"
+	},
+	{
+		"value": "35.160",
+		"label": "35.160 Microprocessor systems"
+	},
+	{
+		"value": "35.180",
+		"label": "35.180 IT terminal and other peripheral equipment"
+	},
+	{
+		"value": "35.200",
+		"label": "35.200 Interface and interconnection equipment"
+	},
+	{
+		"value": "35.210",
+		"label": "35.210 Cloud computing"
+	},
+	{
+		"value": "35.220",
+		"label": "35.220 Data storage devices"
+	},
+	{
+		"value": "35.240",
+		"label": "35.240 Applications of information technology"
+	},
+	{
+		"value": "35.260",
+		"label": "35.260 Office machines"
+	},
+	{
+		"value": "37.020",
+		"label": "37.020 Optical equipment"
+	},
+	{
+		"value": "37.040",
+		"label": "37.040 Photography"
+	},
+	{
+		"value": "37.060",
+		"label": "37.060 Cinematography"
+	},
+	{
+		"value": "37.080",
+		"label": "37.080 Document imaging applications"
+	},
+	{
+		"value": "37.100",
+		"label": "37.100 Graphic technology"
+	},
+	{
+		"value": "39.020",
+		"label": "39.020 Precision mechanics"
+	},
+	{
+		"value": "39.040",
+		"label": "39.040 Horology"
+	},
+	{
+		"value": "39.060",
+		"label": "39.060 Jewellery"
+	},
+	{
+		"value": "45.020",
+		"label": "45.020 Railway engineering in general"
+	},
+	{
+		"value": "45.040",
+		"label": "45.040 Materials and components for railway engineering"
+	},
+	{
+		"value": "45.060",
+		"label": "45.060 Railway rolling stock"
+	},
+	{
+		"value": "45.080",
+		"label": "45.080 Rails and railway components"
+	},
+	{
+		"value": "45.100",
+		"label": "45.100 Cableway equipment"
+	},
+	{
+		"value": "45.120",
+		"label": "45.120 Equipment for railway/cableway construction and maintenance"
+	},
+	{
+		"value": "45.140",
+		"label": "45.140 Metro"
+	},
+	{
+		"value": "47.020",
+		"label": "47.020 Shipbuilding and marine structures in general"
+	},
+	{
+		"value": "47.040",
+		"label": "47.040 Seagoing vessels"
+	},
+	{
+		"value": "47.060",
+		"label": "47.060 Inland navigation vessels"
+	},
+	{
+		"value": "47.080",
+		"label": "47.080 Small craft"
+	},
+	{
+		"value": "43.020",
+		"label": "43.020 Road vehicles in general"
+	},
+	{
+		"value": "43.040",
+		"label": "43.040 Road vehicle systems"
+	},
+	{
+		"value": "43.060",
+		"label": "43.060 Internal combustion engines for road vehicles"
+	},
+	{
+		"value": "43.080",
+		"label": "43.080 Commercial vehicles"
+	},
+	{
+		"value": "43.100",
+		"label": "43.100 Passenger cars. Caravans and light trailers"
+	},
+	{
+		"value": "43.120",
+		"label": "43.120 Electric road vehicles"
+	},
+	{
+		"value": "43.140",
+		"label": "43.140 Motorcycles and mopeds"
+	},
+	{
+		"value": "43.150",
+		"label": "43.150 Cycles"
+	},
+	{
+		"value": "43.160",
+		"label": "43.160 Special purpose vehicles"
+	},
+	{
+		"value": "43.180",
+		"label": "43.180 Diagnostic"
+	},
+	{
+		"value": "49.020",
+		"label": "49.020 Aircraft and space vehicles in general"
+	},
+	{
+		"value": "49.025",
+		"label": "49.025 Materials for aerospace construction"
+	},
+	{
+		"value": "49.030",
+		"label": "49.030 Fasteners for aerospace construction"
+	},
+	{
+		"value": "49.035",
+		"label": "49.035 Components for aerospace construction"
+	},
+	{
+		"value": "49.040",
+		"label": "49.040 Coatings and related processes used in aerospace industry"
+	},
+	{
+		"value": "49.045",
+		"label": "49.045 Structure and structure elements"
+	},
+	{
+		"value": "49.050",
+		"label": "49.050 Aerospace engines and propulsion systems"
+	},
+	{
+		"value": "49.060",
+		"label": "49.060 Aerospace electric equipment and systems"
+	},
+	{
+		"value": "49.080",
+		"label": "49.080 Aerospace fluid systems and components"
+	},
+	{
+		"value": "49.090",
+		"label": "49.090 On-board equipment and instruments"
+	},
+	{
+		"value": "49.095",
+		"label": "49.095 Passenger and cabin equipment"
+	},
+	{
+		"value": "49.100",
+		"label": "49.100 Ground service and maintenance equipment"
+	},
+	{
+		"value": "49.120",
+		"label": "49.120 Cargo equipment"
+	},
+	{
+		"value": "49.140",
+		"label": "49.140 Space systems and operations"
+	},
+	{
+		"value": "55.020",
+		"label": "55.020 Packaging and distribution of goods in general"
+	},
+	{
+		"value": "55.040",
+		"label": "55.040 Packaging materials and accessories"
+	},
+	{
+		"value": "55.060",
+		"label": "55.060 Spools. Bobbins"
+	},
+	{
+		"value": "55.080",
+		"label": "55.080 Sacks. Bags"
+	},
+	{
+		"value": "55.100",
+		"label": "55.100 Bottles. Pots. Jars"
+	},
+	{
+		"value": "55.120",
+		"label": "55.120 Cans. Tins. Tubes"
+	},
+	{
+		"value": "55.130",
+		"label": "55.130 Aerosol containers"
+	},
+	{
+		"value": "55.140",
+		"label": "55.140 Barrels. Drums. Canisters"
+	},
+	{
+		"value": "55.160",
+		"label": "55.160 Cases. Boxes. Crates"
+	},
+	{
+		"value": "55.180",
+		"label": "55.180 Freight distribution of goods"
+	},
+	{
+		"value": "55.200",
+		"label": "55.200 Packaging machinery"
+	},
+	{
+		"value": "55.220",
+		"label": "55.220 Storing. Warehousing"
+	},
+	{
+		"value": "55.230",
+		"label": "55.230 Distribution and vending machines"
+	},
+	{
+		"value": "53.020",
+		"label": "53.020 Lifting equipment"
+	},
+	{
+		"value": "53.040",
+		"label": "53.040 Continuous handling equipment"
+	},
+	{
+		"value": "53.060",
+		"label": "53.060 Industrial trucks"
+	},
+	{
+		"value": "53.080",
+		"label": "53.080 Storage equipment"
+	},
+	{
+		"value": "53.100",
+		"label": "53.100 Earth-moving machinery"
+	},
+	{
+		"value": "53.120",
+		"label": "53.120 Equipment for manual handling"
+	},
+	{
+		"value": "59.020",
+		"label": "59.020 Processes of the textile industry"
+	},
+	{
+		"value": "59.040",
+		"label": "59.040 Textile auxiliary materials"
+	},
+	{
+		"value": "59.060",
+		"label": "59.060 Textile fibres"
+	},
+	{
+		"value": "59.080",
+		"label": "59.080 Products of the textile industry"
+	},
+	{
+		"value": "59.100",
+		"label": "59.100 Materials for the reinforcement of composites"
+	},
+	{
+		"value": "59.120",
+		"label": "59.120 Textile machinery"
+	},
+	{
+		"value": "59.140",
+		"label": "59.140 Leather technology"
+	},
+	{
+		"value": "61.020",
+		"label": "61.020 Clothes"
+	},
+	{
+		"value": "61.040",
+		"label": "61.040 Headgear. Clothing accessories. Fastening of clothing"
+	},
+	{
+		"value": "61.060",
+		"label": "61.060 Footwear"
+	},
+	{
+		"value": "61.080",
+		"label": "61.080 Sewing machines and other equipment for the clothing industry"
+	},
+	{
+		"value": "65.020",
+		"label": "65.020 Farming and forestry"
+	},
+	{
+		"value": "65.040",
+		"label": "65.040 Farm buildings"
+	},
+	{
+		"value": "65.060",
+		"label": "65.060 Agricultural machines"
+	},
+	{
+		"value": "65.080",
+		"label": "65.080 Fertilizers"
+	},
+	{
+		"value": "65.100",
+		"label": "65.100 Pesticides and other agrochemicals"
+	},
+	{
+		"value": "65.120",
+		"label": "65.120 Animal feeding stuffs"
+	},
+	{
+		"value": "65.140",
+		"label": "65.140 Beekeeping"
+	},
+	{
+		"value": "65.145",
+		"label": "65.145 Hunting"
+	},
+	{
+		"value": "65.150",
+		"label": "65.150 Fishing and fish breeding"
+	},
+	{
+		"value": "65.160",
+		"label": "65.160 Tobacco"
+	},
+	{
+		"value": "67.020",
+		"label": "67.020 Processes in the food industry"
+	},
+	{
+		"value": "67.040",
+		"label": "67.040 Food products in general"
+	},
+	{
+		"value": "67.050",
+		"label": "67.050 General methods of tests and analysis for food products"
+	},
+	{
+		"value": "67.060",
+		"label": "67.060 Cereals"
+	},
+	{
+		"value": "67.080",
+		"label": "67.080 Fruits. Vegetables"
+	},
+	{
+		"value": "67.100",
+		"label": "67.100 Milk and milk products"
+	},
+	{
+		"value": "67.120",
+		"label": "67.120 Meat"
+	},
+	{
+		"value": "67.140",
+		"label": "67.140 Tea. Coffee. Cocoa"
+	},
+	{
+		"value": "67.160",
+		"label": "67.160 Beverages"
+	},
+	{
+		"value": "67.180",
+		"label": "67.180 Sugar. Sugar products. Starch"
+	},
+	{
+		"value": "67.190",
+		"label": "67.190 Chocolate"
+	},
+	{
+		"value": "67.200",
+		"label": "67.200 Edible oils and fats. Oilseeds"
+	},
+	{
+		"value": "67.220",
+		"label": "67.220 Spices and condiments. Food additives"
+	},
+	{
+		"value": "67.230",
+		"label": "67.230 Prepackaged and prepared foods"
+	},
+	{
+		"value": "67.240",
+		"label": "67.240 Sensory analysis"
+	},
+	{
+		"value": "67.250",
+		"label": "67.250 Materials and articles in contact with foodstuffs"
+	},
+	{
+		"value": "67.260",
+		"label": "67.260 Plants and equipment for the food industry"
+	},
+	{
+		"value": "73.020",
+		"label": "73.020 Mining and quarrying"
+	},
+	{
+		"value": "73.040",
+		"label": "73.040 Coals"
+	},
+	{
+		"value": "73.060",
+		"label": "73.060 Metalliferous minerals and their concentrates"
+	},
+	{
+		"value": "73.080",
+		"label": "73.080 Non-metalliferous minerals"
+	},
+	{
+		"value": "73.100",
+		"label": "73.100 Mining equipment"
+	},
+	{
+		"value": "73.120",
+		"label": "73.120 Equipment for processing of minerals"
+	},
+	{
+		"value": "71.020",
+		"label": "71.020 Production in the chemical industry"
+	},
+	{
+		"value": "71.040",
+		"label": "71.040 Analytical chemistry"
+	},
+	{
+		"value": "71.060",
+		"label": "71.060 Inorganic chemicals"
+	},
+	{
+		"value": "71.080",
+		"label": "71.080 Organic chemicals"
+	},
+	{
+		"value": "71.100",
+		"label": "71.100 Products of the chemical industry"
+	},
+	{
+		"value": "71.120",
+		"label": "71.120 Equipment for the chemical industry"
+	},
+	{
+		"value": "75.020",
+		"label": "75.020 Extraction and processing of petroleum and natural gas"
+	},
+	{
+		"value": "75.040",
+		"label": "75.040 Crude petroleum"
+	},
+	{
+		"value": "75.060",
+		"label": "75.060 Natural gas"
+	},
+	{
+		"value": "75.080",
+		"label": "75.080 Petroleum products in general"
+	},
+	{
+		"value": "75.100",
+		"label": "75.100 Lubricants"
+	},
+	{
+		"value": "75.120",
+		"label": "75.120 Hydraulic fluids"
+	},
+	{
+		"value": "75.140",
+		"label": "75.140 Waxes"
+	},
+	{
+		"value": "75.160",
+		"label": "75.160 Fuels"
+	},
+	{
+		"value": "75.180",
+		"label": "75.180 Equipment for petroleum and natural gas industries"
+	},
+	{
+		"value": "75.200",
+		"label": "75.200 Petroleum products and natural gas handling equipment"
+	},
+	{
+		"value": "79.020",
+		"label": "79.020 Wood technology processes"
+	},
+	{
+		"value": "79.040",
+		"label": "79.040 Wood"
+	},
+	{
+		"value": "79.060",
+		"label": "79.060 Wood-based panels"
+	},
+	{
+		"value": "79.080",
+		"label": "79.080 Semi-manufactures of timber"
+	},
+	{
+		"value": "79.100",
+		"label": "79.100 Cork and cork products"
+	},
+	{
+		"value": "79.120",
+		"label": "79.120 Woodworking equipment"
+	},
+	{
+		"value": "77.020",
+		"label": "77.020 Production of metals"
+	},
+	{
+		"value": "77.040",
+		"label": "77.040 Testing of metals"
+	},
+	{
+		"value": "77.060",
+		"label": "77.060 Corrosion of metals"
+	},
+	{
+		"value": "77.080",
+		"label": "77.080 Ferrous metals"
+	},
+	{
+		"value": "77.100",
+		"label": "77.100 Ferroalloys"
+	},
+	{
+		"value": "77.120",
+		"label": "77.120 Non-ferrous metals"
+	},
+	{
+		"value": "77.140",
+		"label": "77.140 Iron and steel products"
+	},
+	{
+		"value": "77.150",
+		"label": "77.150 Products of non-ferrous metals"
+	},
+	{
+		"value": "77.160",
+		"label": "77.160 Powder metallurgy"
+	},
+	{
+		"value": "77.180",
+		"label": "77.180 Equipment for the metallurgical industry"
+	},
+	{
+		"value": "81.020",
+		"label": "81.020 Processes in the glass and ceramics industries"
+	},
+	{
+		"value": "81.040",
+		"label": "81.040 Glass"
+	},
+	{
+		"value": "81.060",
+		"label": "81.060 Ceramics"
+	},
+	{
+		"value": "81.080",
+		"label": "81.080 Refractories"
+	},
+	{
+		"value": "81.100",
+		"label": "81.100 Equipment for the glass and ceramics industries"
+	},
+	{
+		"value": "85.020",
+		"label": "85.020 Paper production processes"
+	},
+	{
+		"value": "85.040",
+		"label": "85.040 Pulps"
+	},
+	{
+		"value": "85.060",
+		"label": "85.060 Paper and board"
+	},
+	{
+		"value": "85.080",
+		"label": "85.080 Paper products"
+	},
+	{
+		"value": "85.100",
+		"label": "85.100 Equipment for the paper industry"
+	},
+	{
+		"value": "83.020",
+		"label": "83.020 Manufacturing processes in the rubber and plastics industries"
+	},
+	{
+		"value": "83.040",
+		"label": "83.040 Raw materials for rubber and plastics"
+	},
+	{
+		"value": "83.060",
+		"label": "83.060 Rubber"
+	},
+	{
+		"value": "83.080",
+		"label": "83.080 Plastics"
+	},
+	{
+		"value": "83.100",
+		"label": "83.100 Cellular materials"
+	},
+	{
+		"value": "83.120",
+		"label": "83.120 Reinforced plastics"
+	},
+	{
+		"value": "83.140",
+		"label": "83.140 Rubber and plastics products"
+	},
+	{
+		"value": "83.160",
+		"label": "83.160 Tyres"
+	},
+	{
+		"value": "83.180",
+		"label": "83.180 Adhesives"
+	},
+	{
+		"value": "83.200",
+		"label": "83.200 Equipment for the rubber and plastics industries"
+	},
+	{
+		"value": "87.020",
+		"label": "87.020 Paint coating processes"
+	},
+	{
+		"value": "87.040",
+		"label": "87.040 Paints and varnishes"
+	},
+	{
+		"value": "87.060",
+		"label": "87.060 Paint ingredients"
+	},
+	{
+		"value": "87.080",
+		"label": "87.080 Inks. Printing inks"
+	},
+	{
+		"value": "87.100",
+		"label": "87.100 Paint coating equipment"
+	},
+	{
+		"value": "91.010",
+		"label": "91.010 Construction industry"
+	},
+	{
+		"value": "91.020",
+		"label": "91.020 Physical planning. Town planning"
+	},
+	{
+		"value": "91.040",
+		"label": "91.040 Buildings"
+	},
+	{
+		"value": "91.060",
+		"label": "91.060 Elements of buildings"
+	},
+	{
+		"value": "91.080",
+		"label": "91.080 Structures of buildings"
+	},
+	{
+		"value": "91.090",
+		"label": "91.090 External structures"
+	},
+	{
+		"value": "91.100",
+		"label": "91.100 Construction materials"
+	},
+	{
+		"value": "91.120",
+		"label": "91.120 Protection of and in buildings"
+	},
+	{
+		"value": "91.140",
+		"label": "91.140 Installations in buildings"
+	},
+	{
+		"value": "91.160",
+		"label": "91.160 Lighting"
+	},
+	{
+		"value": "91.180",
+		"label": "91.180 Interior finishing"
+	},
+	{
+		"value": "91.190",
+		"label": "91.190 Building accessories"
+	},
+	{
+		"value": "91.200",
+		"label": "91.200 Construction technology"
+	},
+	{
+		"value": "91.220",
+		"label": "91.220 Construction equipment"
+	},
+	{
+		"value": "93.010",
+		"label": "93.010 Civil engineering in general"
+	},
+	{
+		"value": "93.020",
+		"label": "93.020 Earthworks. Excavations. Foundation construction. Underground works"
+	},
+	{
+		"value": "93.025",
+		"label": "93.025 External water conveyance systems"
+	},
+	{
+		"value": "93.030",
+		"label": "93.030 External sewage systems"
+	},
+	{
+		"value": "93.040",
+		"label": "93.040 Bridge construction"
+	},
+	{
+		"value": "93.060",
+		"label": "93.060 Tunnel construction"
+	},
+	{
+		"value": "93.080",
+		"label": "93.080 Road engineering"
+	},
+	{
+		"value": "93.100",
+		"label": "93.100 Construction of railways"
+	},
+	{
+		"value": "93.110",
+		"label": "93.110 Construction of ropeways"
+	},
+	{
+		"value": "93.120",
+		"label": "93.120 Construction of airports"
+	},
+	{
+		"value": "93.140",
+		"label": "93.140 Construction of waterways"
+	},
+	{
+		"value": "93.160",
+		"label": "93.160 Hydraulic construction"
+	},
+	{
+		"value": "95.020",
+		"label": "95.020 Military in general"
+	},
+	{
+		"value": "95.040",
+		"label": "95.040 Military engineering"
+	},
+	{
+		"value": "95.060",
+		"label": "95.060 Weapons"
+	},
+	{
+		"value": "97.020",
+		"label": "97.020 Home economics in general"
+	},
+	{
+		"value": "97.030",
+		"label": "97.030 Domestic electrical appliances in general"
+	},
+	{
+		"value": "97.040",
+		"label": "97.040 Kitchen equipment"
+	},
+	{
+		"value": "97.060",
+		"label": "97.060 Laundry appliances"
+	},
+	{
+		"value": "97.080",
+		"label": "97.080 Cleaning appliances"
+	},
+	{
+		"value": "97.100",
+		"label": "97.100 Domestic"
+	},
+	{
+		"value": "97.120",
+		"label": "97.120 Automatic controls for household use"
+	},
+	{
+		"value": "97.130",
+		"label": "97.130 Shop fittings"
+	},
+	{
+		"value": "97.140",
+		"label": "97.140 Furniture"
+	},
+	{
+		"value": "97.145",
+		"label": "97.145 Ladders"
+	},
+	{
+		"value": "97.150",
+		"label": "97.150 Floor coverings"
+	},
+	{
+		"value": "97.160",
+		"label": "97.160 Home textiles. Linen"
+	},
+	{
+		"value": "97.170",
+		"label": "97.170 Body care equipment"
+	},
+	{
+		"value": "97.180",
+		"label": "97.180 Miscellaneous domestic and commercial equipment"
+	},
+	{
+		"value": "97.190",
+		"label": "97.190 Equipment for children"
+	},
+	{
+		"value": "97.195",
+		"label": "97.195 Items of art and handicrafts. Cultural property and heritage"
+	},
+	{
+		"value": "97.200",
+		"label": "97.200 Equipment for entertainment"
+	},
+	{
+		"value": "97.220",
+		"label": "97.220 Sports equipment and facilities"
+	},
+	{
+		"value": "07.100.01",
+		"label": "07.100.01 Microbiology in general"
+	},
+	{
+		"value": "07.100.10",
+		"label": "07.100.10 Medical microbiology"
+	},
+	{
+		"value": "07.100.20",
+		"label": "07.100.20 Microbiology of water"
+	},
+	{
+		"value": "07.100.40",
+		"label": "07.100.40 Cosmetics microbiology"
+	},
+	{
+		"value": "07.100.99",
+		"label": "07.100.99 Other standards related to microbiology"
+	},
+	{
+		"value": "01.040.01",
+		"label": "01.040.01 Generalities. Terminology. Standardization. Documentation (Vocabularies)"
+	},
+	{
+		"value": "01.040.03",
+		"label": "01.040.03 Services. Company organization"
+	},
+	{
+		"value": "01.040.07",
+		"label": "01.040.07 Natural and applied sciences (Vocabularies)"
+	},
+	{
+		"value": "07.100.30",
+		"label": "07.100.30 Food microbiology"
+	},
+	{
+		"value": "01.040.11",
+		"label": "01.040.11 Health care technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.13",
+		"label": "01.040.13 Environment. Health protection. Safety (Vocabularies)"
+	},
+	{
+		"value": "01.040.17",
+		"label": "01.040.17 Metrology and measurement. Physical phenomena (Vocabularies)"
+	},
+	{
+		"value": "01.040.19",
+		"label": "01.040.19 Testing (Vocabularies)"
+	},
+	{
+		"value": "01.040.23",
+		"label": "01.040.23 Fluid systems and components for general use (Vocabularies)"
+	},
+	{
+		"value": "01.040.21",
+		"label": "01.040.21 Mechanical systems and components for general use (Vocabularies)"
+	},
+	{
+		"value": "01.040.25",
+		"label": "01.040.25 Manufacturing engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.29",
+		"label": "01.040.29 Electrical engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.31",
+		"label": "01.040.31 Electronics (Vocabularies)"
+	},
+	{
+		"value": "01.040.33",
+		"label": "01.040.33 Telecommunications. Audio and video engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.35",
+		"label": "01.040.35 Information technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.27",
+		"label": "01.040.27 Energy and heat transfer engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.37",
+		"label": "01.040.37 Image technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.39",
+		"label": "01.040.39 Precision mechanics. Jewellery (Vocabularies)"
+	},
+	{
+		"value": "01.040.43",
+		"label": "01.040.43 Road vehicle engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.45",
+		"label": "01.040.45 Railway engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.49",
+		"label": "01.040.49 Aircraft and space vehicle engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.53",
+		"label": "01.040.53 Materials handling equipment (Vocabularies)"
+	},
+	{
+		"value": "01.040.55",
+		"label": "01.040.55 Packaging and distribution of goods (Vocabularies)"
+	},
+	{
+		"value": "01.040.59",
+		"label": "01.040.59 Textile and leather technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.61",
+		"label": "01.040.61 Clothing industry (Vocabularies)"
+	},
+	{
+		"value": "01.040.65",
+		"label": "01.040.65 Agriculture (Vocabularies)"
+	},
+	{
+		"value": "01.040.47",
+		"label": "01.040.47 Shipbuilding and marine structures (Vocabularies)"
+	},
+	{
+		"value": "01.040.71",
+		"label": "01.040.71 Chemical technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.73",
+		"label": "01.040.73 Mining and minerals (Vocabularies)"
+	},
+	{
+		"value": "01.040.75",
+		"label": "01.040.75 Petroleum and related technologies (Vocabularies)"
+	},
+	{
+		"value": "01.040.77",
+		"label": "01.040.77 Metallurgy (Vocabularies)"
+	},
+	{
+		"value": "01.040.79",
+		"label": "01.040.79 Wood technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.67",
+		"label": "01.040.67 Food technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.83",
+		"label": "01.040.83 Rubber and plastics industries (Vocabularies)"
+	},
+	{
+		"value": "01.040.81",
+		"label": "01.040.81 Glass and ceramics industries (Vocabularies)"
+	},
+	{
+		"value": "01.040.87",
+		"label": "01.040.87 Paint and colour industries (Vocabularies)"
+	},
+	{
+		"value": "01.040.85",
+		"label": "01.040.85 Paper technology (Vocabularies)"
+	},
+	{
+		"value": "01.040.91",
+		"label": "01.040.91 Construction materials and building (Vocabularies)"
+	},
+	{
+		"value": "01.040.93",
+		"label": "01.040.93 Civil engineering (Vocabularies)"
+	},
+	{
+		"value": "01.040.97",
+		"label": "01.040.97 Domestic and commercial equipment. Entertainment. Sports (Vocabularies)"
+	},
+	{
+		"value": "01.040.95",
+		"label": "01.040.95 Military Affairs. Military engineering. Weapons (Vocabularies)"
+	},
+	{
+		"value": "01.080.01",
+		"label": "01.080.01 Graphical symbols in general"
+	},
+	{
+		"value": "01.080.10",
+		"label": "01.080.10 Public information symbols. Signs. Plates. Labels"
+	},
+	{
+		"value": "01.080.20",
+		"label": "01.080.20 Graphical symbols for use on specific equipment"
+	},
+	{
+		"value": "01.080.30",
+		"label": "01.080.30 Graphical symbols for use on mechanical engineering and construction drawings"
+	},
+	{
+		"value": "01.080.40",
+		"label": "01.080.40 Graphical symbols for use on electrical and electronics engineering drawings"
+	},
+	{
+		"value": "01.080.99",
+		"label": "01.080.99 Other graphical symbols"
+	},
+	{
+		"value": "01.080.50",
+		"label": "01.080.50 Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation"
+	},
+	{
+		"value": "01.100.01",
+		"label": "01.100.01 Technical drawings in general"
+	},
+	{
+		"value": "01.100.25",
+		"label": "01.100.25 Electrical and electronics engineering drawings"
+	},
+	{
+		"value": "01.100.27",
+		"label": "01.100.27 Technical drawings for telecommunications and information technology fields"
+	},
+	{
+		"value": "01.100.20",
+		"label": "01.100.20 Mechanical engineering drawings"
+	},
+	{
+		"value": "01.100.30",
+		"label": "01.100.30 Construction drawings"
+	},
+	{
+		"value": "01.100.40",
+		"label": "01.100.40 Drawing equipment"
+	},
+	{
+		"value": "01.100.99",
+		"label": "01.100.99 Other standards related to technical drawings"
+	},
+	{
+		"value": "01.140.10",
+		"label": "01.140.10 Writing and transliteration"
+	},
+	{
+		"value": "01.140.20",
+		"label": "01.140.20 Information sciences"
+	},
+	{
+		"value": "01.140.30",
+		"label": "01.140.30 Documents in administration"
+	},
+	{
+		"value": "01.140.40",
+		"label": "01.140.40 Publishing"
+	},
+	{
+		"value": "03.100.01",
+		"label": "03.100.01 Company organization and management in general"
+	},
+	{
+		"value": "03.100.02",
+		"label": "03.100.02 Governance and ethics"
+	},
+	{
+		"value": "03.100.20",
+		"label": "03.100.20 Trade. Commercial function. Marketing"
+	},
+	{
+		"value": "03.100.30",
+		"label": "03.100.30 Management of human resources"
+	},
+	{
+		"value": "03.100.40",
+		"label": "03.100.40 Research and development"
+	},
+	{
+		"value": "03.100.50",
+		"label": "03.100.50 Production. Production management"
+	},
+	{
+		"value": "03.100.60",
+		"label": "03.100.60 Accountancy"
+	},
+	{
+		"value": "03.100.10",
+		"label": "03.100.10 Purchasing. Procurement. Logistics"
+	},
+	{
+		"value": "03.100.99",
+		"label": "03.100.99 Other standards related to company organization and management"
+	},
+	{
+		"value": "03.080.01",
+		"label": "03.080.01 Services in general"
+	},
+	{
+		"value": "03.080.10",
+		"label": "03.080.10 Maintenance services. Facilities management"
+	},
+	{
+		"value": "03.080.20",
+		"label": "03.080.20 Services for companies"
+	},
+	{
+		"value": "03.080.30",
+		"label": "03.080.30 Services for consumers"
+	},
+	{
+		"value": "03.100.70",
+		"label": "03.100.70 Management systems"
+	},
+	{
+		"value": "03.080.99",
+		"label": "03.080.99 Other services"
+	},
+	{
+		"value": "03.120.10",
+		"label": "03.120.10 Quality management and quality assurance"
+	},
+	{
+		"value": "03.120.01",
+		"label": "03.120.01 Quality in general"
+	},
+	{
+		"value": "03.120.20",
+		"label": "03.120.20 Product and company certification. Conformity assessment"
+	},
+	{
+		"value": "03.120.30",
+		"label": "03.120.30 Application of statistical methods"
+	},
+	{
+		"value": "03.120.99",
+		"label": "03.120.99 Other standards related to quality"
+	},
+	{
+		"value": "03.200.01",
+		"label": "03.200.01 Leisure and tourism in general"
+	},
+	{
+		"value": "03.200.10",
+		"label": "03.200.10 Adventure tourism"
+	},
+	{
+		"value": "03.200.99",
+		"label": "03.200.99 Other standards relating to leisure and tourism"
+	},
+	{
+		"value": "03.220.01",
+		"label": "03.220.01 Transport in general"
+	},
+	{
+		"value": "03.220.30",
+		"label": "03.220.30 Transport by rail"
+	},
+	{
+		"value": "03.220.20",
+		"label": "03.220.20 Road transport"
+	},
+	{
+		"value": "03.220.50",
+		"label": "03.220.50 Air transport"
+	},
+	{
+		"value": "03.220.40",
+		"label": "03.220.40 Transport by water"
+	},
+	{
+		"value": "11.020.01",
+		"label": "11.020.01 Quality and environmental management in health care"
+	},
+	{
+		"value": "03.220.99",
+		"label": "03.220.99 Other forms of transport"
+	},
+	{
+		"value": "11.020.20",
+		"label": "11.020.20 Medical science"
+	},
+	{
+		"value": "11.020.99",
+		"label": "11.020.99 Other standards related to health care in general"
+	},
+	{
+		"value": "11.040.01",
+		"label": "11.040.01 Medical equipment in general"
+	},
+	{
+		"value": "11.020.10",
+		"label": "11.020.10 Health care services in general"
+	},
+	{
+		"value": "11.040.10",
+		"label": "11.040.10 Anaesthetic"
+	},
+	{
+		"value": "11.040.20",
+		"label": "11.040.20 Transfusion"
+	},
+	{
+		"value": "11.040.25",
+		"label": "11.040.25 Syringes"
+	},
+	{
+		"value": "11.040.30",
+		"label": "11.040.30 Surgical instruments and materials"
+	},
+	{
+		"value": "11.040.40",
+		"label": "11.040.40 Implants for surgery"
+	},
+	{
+		"value": "11.040.50",
+		"label": "11.040.50 Radiographic equipment"
+	},
+	{
+		"value": "11.040.60",
+		"label": "11.040.60 Therapy equipment"
+	},
+	{
+		"value": "11.040.70",
+		"label": "11.040.70 Ophthalmic equipment"
+	},
+	{
+		"value": "11.040.99",
+		"label": "11.040.99 Other medical equipment"
+	},
+	{
+		"value": "11.060.01",
+		"label": "11.060.01 Dentistry in general"
+	},
+	{
+		"value": "11.060.10",
+		"label": "11.060.10 Dental materials"
+	},
+	{
+		"value": "11.040.55",
+		"label": "11.040.55 Diagnostic equipment"
+	},
+	{
+		"value": "11.060.20",
+		"label": "11.060.20 Dental equipment"
+	},
+	{
+		"value": "11.060.25",
+		"label": "11.060.25 Dental instruments"
+	},
+	{
+		"value": "11.080.01",
+		"label": "11.080.01 Sterilization and disinfection in general"
+	},
+	{
+		"value": "11.080.10",
+		"label": "11.080.10 Sterilizing equipment"
+	},
+	{
+		"value": "11.080.20",
+		"label": "11.080.20 Disinfectants and antiseptics"
+	},
+	{
+		"value": "11.060.15",
+		"label": "11.060.15 Dental implants"
+	},
+	{
+		"value": "11.080.30",
+		"label": "11.080.30 Sterilized packaging"
+	},
+	{
+		"value": "11.080.99",
+		"label": "11.080.99 Other standards related to sterilization and disinfection"
+	},
+	{
+		"value": "11.120.01",
+		"label": "11.120.01 Pharmaceutics in general"
+	},
+	{
+		"value": "11.120.10",
+		"label": "11.120.10 Medicaments"
+	},
+	{
+		"value": "11.120.20",
+		"label": "11.120.20 Wound dressings and compresses"
+	},
+	{
+		"value": "11.120.99",
+		"label": "11.120.99 Other standards related to pharmaceutics"
+	},
+	{
+		"value": "11.100.01",
+		"label": "11.100.01 Laboratory medicine in general"
+	},
+	{
+		"value": "11.100.10",
+		"label": "11.100.10 In vitro diagnostic test systems"
+	},
+	{
+		"value": "11.100.20",
+		"label": "11.100.20 Biological evaluation of medical devices"
+	},
+	{
+		"value": "11.100.30",
+		"label": "11.100.30 Analysis of blood and urine"
+	},
+	{
+		"value": "11.100.99",
+		"label": "11.100.99 Other standards related to laboratory medicine"
+	},
+	{
+		"value": "11.180.01",
+		"label": "11.180.01 Aids for disabled and handicapped persons in general"
+	},
+	{
+		"value": "11.180.10",
+		"label": "11.180.10 Aids and adaptation for moving"
+	},
+	{
+		"value": "11.180.20",
+		"label": "11.180.20 Aids for incontinence and ostomy"
+	},
+	{
+		"value": "11.180.30",
+		"label": "11.180.30 Aids for blind or partially sighted people"
+	},
+	{
+		"value": "11.180.40",
+		"label": "11.180.40 Aids for drinking and eating"
+	},
+	{
+		"value": "11.180.99",
+		"label": "11.180.99 Other standards related to aids for disabled and handicapped people"
+	},
+	{
+		"value": "11.180.15",
+		"label": "11.180.15 Aids for deaf and hearing impaired people"
+	},
+	{
+		"value": "13.020.01",
+		"label": "13.020.01 Environment and environmental protection in general"
+	},
+	{
+		"value": "13.020.20",
+		"label": "13.020.20 Environmental economics. Sustainability"
+	},
+	{
+		"value": "13.020.10",
+		"label": "13.020.10 Environmental management"
+	},
+	{
+		"value": "13.020.40",
+		"label": "13.020.40 Pollution"
+	},
+	{
+		"value": "13.020.50",
+		"label": "13.020.50 Ecolabelling"
+	},
+	{
+		"value": "13.020.55",
+		"label": "13.020.55 Biobased products"
+	},
+	{
+		"value": "13.020.60",
+		"label": "13.020.60 Product life-cycles"
+	},
+	{
+		"value": "13.020.70",
+		"label": "13.020.70 Environmental projects"
+	},
+	{
+		"value": "13.020.99",
+		"label": "13.020.99 Other standards related to environmental protection"
+	},
+	{
+		"value": "13.030.01",
+		"label": "13.030.01 Wastes in general"
+	},
+	{
+		"value": "13.030.10",
+		"label": "13.030.10 Solid wastes"
+	},
+	{
+		"value": "13.030.20",
+		"label": "13.030.20 Liquid wastes. Sludge"
+	},
+	{
+		"value": "13.030.30",
+		"label": "13.030.30 Special wastes"
+	},
+	{
+		"value": "13.030.40",
+		"label": "13.030.40 Installations and equipment for waste disposal and treatment"
+	},
+	{
+		"value": "13.030.50",
+		"label": "13.030.50 Recycling"
+	},
+	{
+		"value": "13.030.99",
+		"label": "13.030.99 Other standards related to wastes"
+	},
+	{
+		"value": "13.040.01",
+		"label": "13.040.01 Air quality in general"
+	},
+	{
+		"value": "13.040.20",
+		"label": "13.040.20 Ambient atmospheres"
+	},
+	{
+		"value": "13.040.30",
+		"label": "13.040.30 Workplace atmospheres"
+	},
+	{
+		"value": "13.040.35",
+		"label": "13.040.35 Cleanrooms and associated controlled environments"
+	},
+	{
+		"value": "13.020.30",
+		"label": "13.020.30 Environmental impact assessment"
+	},
+	{
+		"value": "13.040.40",
+		"label": "13.040.40 Stationary source emissions"
+	},
+	{
+		"value": "13.040.99",
+		"label": "13.040.99 Other standards related to air quality"
+	},
+	{
+		"value": "13.040.50",
+		"label": "13.040.50 Transport exhaust emissions"
+	},
+	{
+		"value": "13.060.10",
+		"label": "13.060.10 Water of natural resources"
+	},
+	{
+		"value": "13.060.01",
+		"label": "13.060.01 Water quality in general"
+	},
+	{
+		"value": "13.060.25",
+		"label": "13.060.25 Water for industrial use"
+	},
+	{
+		"value": "13.060.20",
+		"label": "13.060.20 Drinking water"
+	},
+	{
+		"value": "13.060.30",
+		"label": "13.060.30 Sewage water"
+	},
+	{
+		"value": "13.060.45",
+		"label": "13.060.45 Examination of water in general"
+	},
+	{
+		"value": "13.060.60",
+		"label": "13.060.60 Examination of physical properties of water"
+	},
+	{
+		"value": "13.060.50",
+		"label": "13.060.50 Examination of water for chemical substances"
+	},
+	{
+		"value": "13.060.70",
+		"label": "13.060.70 Examination of biological properties of water"
+	},
+	{
+		"value": "13.060.99",
+		"label": "13.060.99 Other standards related to water quality"
+	},
+	{
+		"value": "13.080.05",
+		"label": "13.080.05 Examination of soils in general"
+	},
+	{
+		"value": "13.080.01",
+		"label": "13.080.01 Soil quality and pedology in general"
+	},
+	{
+		"value": "13.080.10",
+		"label": "13.080.10 Chemical characteristics of soils"
+	},
+	{
+		"value": "13.080.20",
+		"label": "13.080.20 Physical properties of soils"
+	},
+	{
+		"value": "13.080.30",
+		"label": "13.080.30 Biological properties of soils"
+	},
+	{
+		"value": "13.080.40",
+		"label": "13.080.40 Hydrological properties of soils"
+	},
+	{
+		"value": "13.220.01",
+		"label": "13.220.01 Protection against fire in general"
+	},
+	{
+		"value": "13.080.99",
+		"label": "13.080.99 Other standards related to soil quality"
+	},
+	{
+		"value": "13.220.10",
+		"label": "13.220.10 Fire-fighting"
+	},
+	{
+		"value": "13.220.20",
+		"label": "13.220.20 Fire protection"
+	},
+	{
+		"value": "13.220.50",
+		"label": "13.220.50 Fire-resistance of building materials and elements"
+	},
+	{
+		"value": "13.220.40",
+		"label": "13.220.40 Ignitability and burning behaviour of materials and products"
+	},
+	{
+		"value": "13.340.01",
+		"label": "13.340.01 Protective equipment in general"
+	},
+	{
+		"value": "13.220.99",
+		"label": "13.220.99 Other standards related to protection against fire"
+	},
+	{
+		"value": "13.340.20",
+		"label": "13.340.20 Head protective equipment"
+	},
+	{
+		"value": "13.340.10",
+		"label": "13.340.10 Protective clothing"
+	},
+	{
+		"value": "13.340.40",
+		"label": "13.340.40 Hand and arm protection"
+	},
+	{
+		"value": "13.340.50",
+		"label": "13.340.50 Leg and foot protection"
+	},
+	{
+		"value": "13.340.30",
+		"label": "13.340.30 Respiratory protective devices"
+	},
+	{
+		"value": "13.340.70",
+		"label": "13.340.70 Lifejackets"
+	},
+	{
+		"value": "13.340.99",
+		"label": "13.340.99 Other protective equipment"
+	},
+	{
+		"value": "13.340.60",
+		"label": "13.340.60 Protection against falling and slipping"
+	},
+	{
+		"value": "17.040.10",
+		"label": "17.040.10 Limits and fits"
+	},
+	{
+		"value": "17.040.01",
+		"label": "17.040.01 Linear and angular measurements in general"
+	},
+	{
+		"value": "17.040.20",
+		"label": "17.040.20 Properties of surfaces"
+	},
+	{
+		"value": "17.040.30",
+		"label": "17.040.30 Measuring instruments"
+	},
+	{
+		"value": "17.040.40",
+		"label": "17.040.40 Geometrical Product Specification (GPS)"
+	},
+	{
+		"value": "17.120.01",
+		"label": "17.120.01 Measurement of fluid flow in general"
+	},
+	{
+		"value": "17.120.10",
+		"label": "17.120.10 Flow in closed conduits"
+	},
+	{
+		"value": "17.120.20",
+		"label": "17.120.20 Flow in open channels"
+	},
+	{
+		"value": "17.040.99",
+		"label": "17.040.99 Other standards related to linear and angular measurements"
+	},
+	{
+		"value": "17.140.01",
+		"label": "17.140.01 Acoustic measurements and noise abatement in general"
+	},
+	{
+		"value": "17.140.30",
+		"label": "17.140.30 Noise emitted by means of transport"
+	},
+	{
+		"value": "17.140.50",
+		"label": "17.140.50 Electroacoustics"
+	},
+	{
+		"value": "17.140.99",
+		"label": "17.140.99 Other standards related to acoustics"
+	},
+	{
+		"value": "17.180.01",
+		"label": "17.180.01 Optics and optical measurements in general"
+	},
+	{
+		"value": "17.180.20",
+		"label": "17.180.20 Colours and measurement of light"
+	},
+	{
+		"value": "17.180.30",
+		"label": "17.180.30 Optical measuring instruments"
+	},
+	{
+		"value": "17.180.99",
+		"label": "17.180.99 Other standards related to optics and optical measurements"
+	},
+	{
+		"value": "17.140.20",
+		"label": "17.140.20 Noise emitted by machines and equipment"
+	},
+	{
+		"value": "17.220.20",
+		"label": "17.220.20 Measurement of electrical and magnetic quantities"
+	},
+	{
+		"value": "17.220.01",
+		"label": "17.220.01 Electricity. Magnetism. General aspects"
+	},
+	{
+		"value": "17.200.01",
+		"label": "17.200.01 Thermodynamics in general"
+	},
+	{
+		"value": "17.200.10",
+		"label": "17.200.10 Heat. Calorimetry"
+	},
+	{
+		"value": "17.200.20",
+		"label": "17.200.20 Temperature-measuring instruments"
+	},
+	{
+		"value": "17.200.99",
+		"label": "17.200.99 Other standards related to thermodynamics"
+	},
+	{
+		"value": "21.060.01",
+		"label": "21.060.01 Fasteners in general"
+	},
+	{
+		"value": "21.060.10",
+		"label": "21.060.10 Bolts"
+	},
+	{
+		"value": "21.060.20",
+		"label": "21.060.20 Nuts"
+	},
+	{
+		"value": "21.060.30",
+		"label": "21.060.30 Washers"
+	},
+	{
+		"value": "21.060.40",
+		"label": "21.060.40 Rivets"
+	},
+	{
+		"value": "21.060.50",
+		"label": "21.060.50 Pins"
+	},
+	{
+		"value": "21.060.60",
+		"label": "21.060.60 Rings"
+	},
+	{
+		"value": "17.220.99",
+		"label": "17.220.99 Other standards related to electricity and magnetism"
+	},
+	{
+		"value": "21.060.70",
+		"label": "21.060.70 Clamps and staples"
+	},
+	{
+		"value": "21.060.99",
+		"label": "21.060.99 Other fasteners"
+	},
+	{
+		"value": "21.040.10",
+		"label": "21.040.10 Metric screw threads"
+	},
+	{
+		"value": "21.040.01",
+		"label": "21.040.01 Screw threads in general"
+	},
+	{
+		"value": "21.040.20",
+		"label": "21.040.20 Inch screw threads"
+	},
+	{
+		"value": "21.040.30",
+		"label": "21.040.30 Special screw threads"
+	},
+	{
+		"value": "21.100.01",
+		"label": "21.100.01 Bearings in general"
+	},
+	{
+		"value": "21.100.10",
+		"label": "21.100.10 Plain bearings"
+	},
+	{
+		"value": "21.120.01",
+		"label": "21.120.01 Shafts and couplings in general"
+	},
+	{
+		"value": "21.100.20",
+		"label": "21.100.20 Rolling bearings"
+	},
+	{
+		"value": "21.120.10",
+		"label": "21.120.10 Shafts"
+	},
+	{
+		"value": "21.120.30",
+		"label": "21.120.30 Keys and keyways"
+	},
+	{
+		"value": "21.120.20",
+		"label": "21.120.20 Couplings"
+	},
+	{
+		"value": "21.120.40",
+		"label": "21.120.40 Balancing and balancing machines"
+	},
+	{
+		"value": "21.120.99",
+		"label": "21.120.99 Other standards related to shafts and couplings"
+	},
+	{
+		"value": "21.220.01",
+		"label": "21.220.01 Flexible drives and transmissions in general"
+	},
+	{
+		"value": "21.220.10",
+		"label": "21.220.10 Belt drives and their components"
+	},
+	{
+		"value": "21.220.20",
+		"label": "21.220.20 Cable or rope drives and their components"
+	},
+	{
+		"value": "21.220.99",
+		"label": "21.220.99 Other flexible drives and transmissions"
+	},
+	{
+		"value": "21.220.30",
+		"label": "21.220.30 Chain drives and their components"
+	},
+	{
+		"value": "23.020.10",
+		"label": "23.020.10 Stationary containers and tanks"
+	},
+	{
+		"value": "23.020.20",
+		"label": "23.020.20 Vessels and containers mounted on vehicles"
+	},
+	{
+		"value": "23.020.01",
+		"label": "23.020.01 Fluid storage devices in general"
+	},
+	{
+		"value": "23.020.35",
+		"label": "23.020.35 Gas cylinders"
+	},
+	{
+		"value": "23.020.40",
+		"label": "23.020.40 Cryogenic vessels"
+	},
+	{
+		"value": "23.020.30",
+		"label": "23.020.30 Pressure vessels"
+	},
+	{
+		"value": "23.020.99",
+		"label": "23.020.99 Other fluid storage devices"
+	},
+	{
+		"value": "23.040.01",
+		"label": "23.040.01 Pipeline components and pipelines in general"
+	},
+	{
+		"value": "23.040.03",
+		"label": "23.040.03 Pipelines and its parts for external water conveyance systems"
+	},
+	{
+		"value": "23.040.05",
+		"label": "23.040.05 Pipelines and its parts for external sewage systems"
+	},
+	{
+		"value": "23.040.07",
+		"label": "23.040.07 Pipelines and its parts for district heat"
+	},
+	{
+		"value": "23.040.15",
+		"label": "23.040.15 Non-ferrous metal pipes"
+	},
+	{
+		"value": "23.040.20",
+		"label": "23.040.20 Plastics pipes"
+	},
+	{
+		"value": "23.040.10",
+		"label": "23.040.10 Iron and steel pipes"
+	},
+	{
+		"value": "23.040.40",
+		"label": "23.040.40 Metal fittings"
+	},
+	{
+		"value": "23.040.45",
+		"label": "23.040.45 Plastics fittings"
+	},
+	{
+		"value": "23.040.50",
+		"label": "23.040.50 Pipes and fittings of other materials"
+	},
+	{
+		"value": "23.040.60",
+		"label": "23.040.60 Flanges"
+	},
+	{
+		"value": "23.040.80",
+		"label": "23.040.80 Seals for pipe and hose assemblies"
+	},
+	{
+		"value": "23.040.70",
+		"label": "23.040.70 Hoses and hose assemblies"
+	},
+	{
+		"value": "23.060.01",
+		"label": "23.060.01 Valves in general"
+	},
+	{
+		"value": "23.060.10",
+		"label": "23.060.10 Globe valves"
+	},
+	{
+		"value": "23.060.20",
+		"label": "23.060.20 Ball and plug valves"
+	},
+	{
+		"value": "23.040.99",
+		"label": "23.040.99 Other pipeline components"
+	},
+	{
+		"value": "23.060.30",
+		"label": "23.060.30 Gate valves"
+	},
+	{
+		"value": "23.060.40",
+		"label": "23.060.40 Pressure regulators"
+	},
+	{
+		"value": "23.060.50",
+		"label": "23.060.50 Check valves"
+	},
+	{
+		"value": "23.060.99",
+		"label": "23.060.99 Other valves"
+	},
+	{
+		"value": "23.100.10",
+		"label": "23.100.10 Pumps and motors"
+	},
+	{
+		"value": "23.100.20",
+		"label": "23.100.20 Cylinders"
+	},
+	{
+		"value": "23.100.01",
+		"label": "23.100.01 Fluid power systems in general"
+	},
+	{
+		"value": "23.100.40",
+		"label": "23.100.40 Piping and couplings"
+	},
+	{
+		"value": "23.100.50",
+		"label": "23.100.50 Control components"
+	},
+	{
+		"value": "23.100.60",
+		"label": "23.100.60 Filters"
+	},
+	{
+		"value": "25.060.01",
+		"label": "25.060.01 Machine tool systems in general"
+	},
+	{
+		"value": "23.100.99",
+		"label": "23.100.99 Other fluid power system components"
+	},
+	{
+		"value": "25.060.20",
+		"label": "25.060.20 Dividing and tool-workpiece holding devices"
+	},
+	{
+		"value": "25.060.10",
+		"label": "25.060.10 Modular units and other devices"
+	},
+	{
+		"value": "25.060.99",
+		"label": "25.060.99 Other machine tool systems"
+	},
+	{
+		"value": "25.040.10",
+		"label": "25.040.10 Machining centres"
+	},
+	{
+		"value": "25.040.01",
+		"label": "25.040.01 Industrial automation systems in general"
+	},
+	{
+		"value": "25.040.20",
+		"label": "25.040.20 Numerically controlled machines"
+	},
+	{
+		"value": "25.040.30",
+		"label": "25.040.30 Industrial robots. Manipulators"
+	},
+	{
+		"value": "25.040.40",
+		"label": "25.040.40 Industrial process measurement and control"
+	},
+	{
+		"value": "25.040.99",
+		"label": "25.040.99 Other industrial automation systems"
+	},
+	{
+		"value": "25.080.01",
+		"label": "25.080.01 Machine tools in general"
+	},
+	{
+		"value": "25.080.10",
+		"label": "25.080.10 Lathes"
+	},
+	{
+		"value": "25.080.20",
+		"label": "25.080.20 Boring and milling machines"
+	},
+	{
+		"value": "25.080.25",
+		"label": "25.080.25 Planing machines"
+	},
+	{
+		"value": "25.080.30",
+		"label": "25.080.30 Broaching machines"
+	},
+	{
+		"value": "25.080.40",
+		"label": "25.080.40 Drilling machines"
+	},
+	{
+		"value": "25.080.50",
+		"label": "25.080.50 Grinding and polishing machines"
+	},
+	{
+		"value": "25.080.99",
+		"label": "25.080.99 Other machine tools"
+	},
+	{
+		"value": "25.080.60",
+		"label": "25.080.60 Sawing machines"
+	},
+	{
+		"value": "25.120.01",
+		"label": "25.120.01 Chipless working equipment in general"
+	},
+	{
+		"value": "25.120.20",
+		"label": "25.120.20 Rolling"
+	},
+	{
+		"value": "25.120.10",
+		"label": "25.120.10 Forging equipment. Presses. Shears"
+	},
+	{
+		"value": "25.120.30",
+		"label": "25.120.30 Moulding equipment"
+	},
+	{
+		"value": "25.120.99",
+		"label": "25.120.99 Other chipless working equipment"
+	},
+	{
+		"value": "25.120.40",
+		"label": "25.120.40 Electrochemical machines"
+	},
+	{
+		"value": "25.100.10",
+		"label": "25.100.10 Turning tools"
+	},
+	{
+		"value": "25.100.20",
+		"label": "25.100.20 Milling tools"
+	},
+	{
+		"value": "25.100.25",
+		"label": "25.100.25 Tools for planing and broaching machines"
+	},
+	{
+		"value": "25.100.01",
+		"label": "25.100.01 Cutting tools in general"
+	},
+	{
+		"value": "25.100.30",
+		"label": "25.100.30 Drills"
+	},
+	{
+		"value": "25.100.40",
+		"label": "25.100.40 Saws"
+	},
+	{
+		"value": "25.100.50",
+		"label": "25.100.50 Taps and threading dies"
+	},
+	{
+		"value": "25.100.60",
+		"label": "25.100.60 Files"
+	},
+	{
+		"value": "25.100.70",
+		"label": "25.100.70 Abrasives"
+	},
+	{
+		"value": "25.100.99",
+		"label": "25.100.99 Other cutting tools"
+	},
+	{
+		"value": "25.140.01",
+		"label": "25.140.01 Hand-held tools in general"
+	},
+	{
+		"value": "25.140.20",
+		"label": "25.140.20 Electric tools"
+	},
+	{
+		"value": "25.140.10",
+		"label": "25.140.10 Pneumatic tools"
+	},
+	{
+		"value": "25.140.99",
+		"label": "25.140.99 Other hand-held tools"
+	},
+	{
+		"value": "25.160.01",
+		"label": "25.160.01 Welding"
+	},
+	{
+		"value": "25.140.30",
+		"label": "25.140.30 Hand-operated tools"
+	},
+	{
+		"value": "25.160.10",
+		"label": "25.160.10 Welding processes"
+	},
+	{
+		"value": "25.160.20",
+		"label": "25.160.20 Welding consumables"
+	},
+	{
+		"value": "25.160.30",
+		"label": "25.160.30 Welding equipment"
+	},
+	{
+		"value": "25.160.40",
+		"label": "25.160.40 Welded joints and welds"
+	},
+	{
+		"value": "25.160.50",
+		"label": "25.160.50 Brazing and soldering"
+	},
+	{
+		"value": "25.180.01",
+		"label": "25.180.01 Industrial furnaces in general"
+	},
+	{
+		"value": "25.180.20",
+		"label": "25.180.20 Fuel furnaces"
+	},
+	{
+		"value": "25.220.01",
+		"label": "25.220.01 Surface treatment and coating in general"
+	},
+	{
+		"value": "25.220.10",
+		"label": "25.220.10 Surface preparation"
+	},
+	{
+		"value": "25.220.20",
+		"label": "25.220.20 Surface treatment"
+	},
+	{
+		"value": "25.220.40",
+		"label": "25.220.40 Metallic coatings"
+	},
+	{
+		"value": "25.180.10",
+		"label": "25.180.10 Electric furnaces"
+	},
+	{
+		"value": "25.220.50",
+		"label": "25.220.50 Enamels"
+	},
+	{
+		"value": "25.220.99",
+		"label": "25.220.99 Other treatments and coatings"
+	},
+	{
+		"value": "25.220.60",
+		"label": "25.220.60 Organic coatings"
+	},
+	{
+		"value": "27.060.01",
+		"label": "27.060.01 Burners and boilers in general"
+	},
+	{
+		"value": "27.060.20",
+		"label": "27.060.20 Gas fuel burners"
+	},
+	{
+		"value": "27.060.10",
+		"label": "27.060.10 Liquid and solid fuel burners"
+	},
+	{
+		"value": "27.120.01",
+		"label": "27.120.01 Nuclear energy in general"
+	},
+	{
+		"value": "27.060.30",
+		"label": "27.060.30 Boilers and heat exchangers"
+	},
+	{
+		"value": "27.120.20",
+		"label": "27.120.20 Nuclear power plants. Safety"
+	},
+	{
+		"value": "27.120.10",
+		"label": "27.120.10 Reactor engineering"
+	},
+	{
+		"value": "27.120.99",
+		"label": "27.120.99 Other standards related to nuclear energy"
+	},
+	{
+		"value": "29.035.01",
+		"label": "29.035.01 Insulating materials in general"
+	},
+	{
+		"value": "29.035.10",
+		"label": "29.035.10 Paper and board insulating materials"
+	},
+	{
+		"value": "29.035.20",
+		"label": "29.035.20 Plastics and rubber insulating materials"
+	},
+	{
+		"value": "27.120.30",
+		"label": "27.120.30 Fissile materials and nuclear fuel technology"
+	},
+	{
+		"value": "29.035.30",
+		"label": "29.035.30 Glass and ceramic insulating materials"
+	},
+	{
+		"value": "29.035.60",
+		"label": "29.035.60 Varnished fabrics"
+	},
+	{
+		"value": "29.035.50",
+		"label": "29.035.50 Mica based materials"
+	},
+	{
+		"value": "29.035.99",
+		"label": "29.035.99 Other insulating materials"
+	},
+	{
+		"value": "29.060.10",
+		"label": "29.060.10 Wires"
+	},
+	{
+		"value": "29.060.01",
+		"label": "29.060.01 Electrical wires and cables in general"
+	},
+	{
+		"value": "29.080.01",
+		"label": "29.080.01 Electrical insulation in general"
+	},
+	{
+		"value": "29.060.20",
+		"label": "29.060.20 Cables"
+	},
+	{
+		"value": "29.080.10",
+		"label": "29.080.10 Insulators"
+	},
+	{
+		"value": "29.080.20",
+		"label": "29.080.20 Bushings"
+	},
+	{
+		"value": "29.080.30",
+		"label": "29.080.30 Insulation systems"
+	},
+	{
+		"value": "29.080.99",
+		"label": "29.080.99 Other standards related to insulation"
+	},
+	{
+		"value": "29.040.10",
+		"label": "29.040.10 Insulating oils"
+	},
+	{
+		"value": "29.040.01",
+		"label": "29.040.01 Insulating fluids in general"
+	},
+	{
+		"value": "29.040.99",
+		"label": "29.040.99 Other insulating fluids"
+	},
+	{
+		"value": "29.100.01",
+		"label": "29.100.01 Components for electrical equipment in general"
+	},
+	{
+		"value": "29.100.10",
+		"label": "29.100.10 Magnetic components"
+	},
+	{
+		"value": "29.100.20",
+		"label": "29.100.20 Electric and electromechanical components"
+	},
+	{
+		"value": "29.040.20",
+		"label": "29.040.20 Insulating gases"
+	},
+	{
+		"value": "29.130.01",
+		"label": "29.130.01 Switchgear and controlgear in general"
+	},
+	{
+		"value": "29.130.10",
+		"label": "29.130.10 High voltage switchgear and controlgear"
+	},
+	{
+		"value": "29.130.20",
+		"label": "29.130.20 Low voltage switchgear and controlgear"
+	},
+	{
+		"value": "29.100.99",
+		"label": "29.100.99 Other components for electrical equipment"
+	},
+	{
+		"value": "29.120.01",
+		"label": "29.120.01 Electrical accessories in general"
+	},
+	{
+		"value": "29.130.99",
+		"label": "29.130.99 Other switchgear and controlgear"
+	},
+	{
+		"value": "29.120.20",
+		"label": "29.120.20 Connecting devices"
+	},
+	{
+		"value": "29.120.10",
+		"label": "29.120.10 Conduits for electrical purposes"
+	},
+	{
+		"value": "29.120.30",
+		"label": "29.120.30 Plugs"
+	},
+	{
+		"value": "29.120.40",
+		"label": "29.120.40 Switches"
+	},
+	{
+		"value": "29.120.50",
+		"label": "29.120.50 Fuses and other overcurrent protection devices"
+	},
+	{
+		"value": "29.120.70",
+		"label": "29.120.70 Relays"
+	},
+	{
+		"value": "29.140.01",
+		"label": "29.140.01 Lamps in general"
+	},
+	{
+		"value": "29.120.99",
+		"label": "29.120.99 Other electrical accessories"
+	},
+	{
+		"value": "29.140.10",
+		"label": "29.140.10 Lamp caps and holders"
+	},
+	{
+		"value": "29.140.20",
+		"label": "29.140.20 Incandescent lamps"
+	},
+	{
+		"value": "29.140.30",
+		"label": "29.140.30 Fluorescent lamps. Discharge lamps"
+	},
+	{
+		"value": "29.140.50",
+		"label": "29.140.50 Lighting installation systems"
+	},
+	{
+		"value": "29.140.40",
+		"label": "29.140.40 Luminaires"
+	},
+	{
+		"value": "29.140.99",
+		"label": "29.140.99 Other standards related to lamps"
+	},
+	{
+		"value": "29.160.01",
+		"label": "29.160.01 Rotating machinery in general"
+	},
+	{
+		"value": "29.160.10",
+		"label": "29.160.10 Components for rotating machines"
+	},
+	{
+		"value": "29.160.30",
+		"label": "29.160.30 Motors"
+	},
+	{
+		"value": "29.160.20",
+		"label": "29.160.20 Generators"
+	},
+	{
+		"value": "29.160.40",
+		"label": "29.160.40 Generating sets"
+	},
+	{
+		"value": "29.160.99",
+		"label": "29.160.99 Other standards related to rotating machinery"
+	},
+	{
+		"value": "29.260.10",
+		"label": "29.260.10 Electrical installations for outdoor use"
+	},
+	{
+		"value": "29.260.01",
+		"label": "29.260.01 Electrical equipment for working in special conditions in general"
+	},
+	{
+		"value": "29.260.20",
+		"label": "29.260.20 Electrical apparatus for explosive atmospheres"
+	},
+	{
+		"value": "29.260.99",
+		"label": "29.260.99 Other electrical equipment for working in special conditions"
+	},
+	{
+		"value": "29.240.01",
+		"label": "29.240.01 Power transmission and distribution networks in general"
+	},
+	{
+		"value": "29.240.10",
+		"label": "29.240.10 Substations. Surge arresters"
+	},
+	{
+		"value": "29.240.20",
+		"label": "29.240.20 Power transmission and distribution lines"
+	},
+	{
+		"value": "29.240.30",
+		"label": "29.240.30 Control equipment for electric power systems"
+	},
+	{
+		"value": "29.220.01",
+		"label": "29.220.01 Galvanic cells and batteries in general"
+	},
+	{
+		"value": "29.240.99",
+		"label": "29.240.99 Other equipment related to power transmission and distribution networks"
+	},
+	{
+		"value": "29.220.10",
+		"label": "29.220.10 Primary cells and batteries"
+	},
+	{
+		"value": "29.220.20",
+		"label": "29.220.20 Acid secondary cells and batteries"
+	},
+	{
+		"value": "29.220.30",
+		"label": "29.220.30 Alkaline secondary cells and batteries"
+	},
+	{
+		"value": "33.040.01",
+		"label": "33.040.01 Telecommunication systems in general"
+	},
+	{
+		"value": "29.220.99",
+		"label": "29.220.99 Other cells and batteries"
+	},
+	{
+		"value": "33.040.20",
+		"label": "33.040.20 Transmission systems"
+	},
+	{
+		"value": "33.040.30",
+		"label": "33.040.30 Switching and signalling systems"
+	},
+	{
+		"value": "33.040.35",
+		"label": "33.040.35 Telephone networks"
+	},
+	{
+		"value": "33.040.40",
+		"label": "33.040.40 Data communication networks"
+	},
+	{
+		"value": "33.040.50",
+		"label": "33.040.50 Lines"
+	},
+	{
+		"value": "33.040.99",
+		"label": "33.040.99 Other equipment for telecommunication systems"
+	},
+	{
+		"value": "33.040.60",
+		"label": "33.040.60 Powerline telecommunications"
+	},
+	{
+		"value": "33.050.01",
+		"label": "33.050.01 Telecommunication terminal equipment in general"
+	},
+	{
+		"value": "33.050.20",
+		"label": "33.050.20 Paging equipment"
+	},
+	{
+		"value": "33.050.10",
+		"label": "33.050.10 Telephone equipment"
+	},
+	{
+		"value": "33.050.30",
+		"label": "33.050.30 Equipment for telex"
+	},
+	{
+		"value": "33.060.01",
+		"label": "33.060.01 Radiocommunications in general"
+	},
+	{
+		"value": "33.050.99",
+		"label": "33.050.99 Other telecommunication terminal equipment"
+	},
+	{
+		"value": "33.060.20",
+		"label": "33.060.20 Receiving and transmitting equipment"
+	},
+	{
+		"value": "33.060.30",
+		"label": "33.060.30 Radio relay and fixed satellite communications systems"
+	},
+	{
+		"value": "33.060.99",
+		"label": "33.060.99 Other equipment for radiocommunications"
+	},
+	{
+		"value": "33.070.01",
+		"label": "33.070.01 Mobile services in general"
+	},
+	{
+		"value": "33.070.10",
+		"label": "33.070.10 Terrestrial Trunked Radio (TETRA)"
+	},
+	{
+		"value": "33.070.20",
+		"label": "33.070.20 Paging systems"
+	},
+	{
+		"value": "33.070.30",
+		"label": "33.070.30 Digital Enhanced Cordless Telecommunications (DECT)"
+	},
+	{
+		"value": "33.060.40",
+		"label": "33.060.40 Cabled distribution systems"
+	},
+	{
+		"value": "33.070.40",
+		"label": "33.070.40 Satellite"
+	},
+	{
+		"value": "33.070.50",
+		"label": "33.070.50 Global System for Mobile Communication (GSM)"
+	},
+	{
+		"value": "33.070.99",
+		"label": "33.070.99 Other mobile services"
+	},
+	{
+		"value": "33.100.01",
+		"label": "33.100.01 Electromagnetic compatibility in general"
+	},
+	{
+		"value": "33.100.10",
+		"label": "33.100.10 Emission"
+	},
+	{
+		"value": "33.100.20",
+		"label": "33.100.20 Immunity"
+	},
+	{
+		"value": "33.100.99",
+		"label": "33.100.99 Other aspects related to EMC"
+	},
+	{
+		"value": "33.160.01",
+		"label": "33.160.01 Audio"
+	},
+	{
+		"value": "33.160.10",
+		"label": "33.160.10 Amplifiers"
+	},
+	{
+		"value": "33.160.20",
+		"label": "33.160.20 Radio receivers"
+	},
+	{
+		"value": "33.160.30",
+		"label": "33.160.30 Audio systems"
+	},
+	{
+		"value": "33.160.40",
+		"label": "33.160.40 Video systems"
+	},
+	{
+		"value": "33.160.50",
+		"label": "33.160.50 Accessories"
+	},
+	{
+		"value": "33.160.60",
+		"label": "33.160.60 Multimedia systems and teleconferencing equipment"
+	},
+	{
+		"value": "33.160.25",
+		"label": "33.160.25 Television receivers"
+	},
+	{
+		"value": "33.160.99",
+		"label": "33.160.99 Other audio"
+	},
+	{
+		"value": "33.120.10",
+		"label": "33.120.10 Coaxial cables. Waveguides"
+	},
+	{
+		"value": "33.120.20",
+		"label": "33.120.20 Wires and symmetrical cables"
+	},
+	{
+		"value": "33.120.01",
+		"label": "33.120.01 Components and accessories in general"
+	},
+	{
+		"value": "33.120.30",
+		"label": "33.120.30 RF connectors"
+	},
+	{
+		"value": "33.120.40",
+		"label": "33.120.40 Aerials"
+	},
+	{
+		"value": "33.120.99",
+		"label": "33.120.99 Other components and accessories"
+	},
+	{
+		"value": "33.180.10",
+		"label": "33.180.10 Fibres and cables"
+	},
+	{
+		"value": "33.180.01",
+		"label": "33.180.01 Fibre optic systems in general"
+	},
+	{
+		"value": "33.180.20",
+		"label": "33.180.20 Fibre optic interconnecting devices"
+	},
+	{
+		"value": "33.180.30",
+		"label": "33.180.30 Optic amplifiers"
+	},
+	{
+		"value": "33.180.99",
+		"label": "33.180.99 Other fibre optic equipment"
+	},
+	{
+		"value": "31.060.01",
+		"label": "31.060.01 Capacitors in general"
+	},
+	{
+		"value": "31.060.10",
+		"label": "31.060.10 Fixed capacitors"
+	},
+	{
+		"value": "31.060.30",
+		"label": "31.060.30 Paper and plastics capacitors"
+	},
+	{
+		"value": "31.060.20",
+		"label": "31.060.20 Ceramic and mica capacitors"
+	},
+	{
+		"value": "31.060.40",
+		"label": "31.060.40 Tantalum electrolytic capacitors"
+	},
+	{
+		"value": "31.060.60",
+		"label": "31.060.60 Variable capacitors"
+	},
+	{
+		"value": "31.060.70",
+		"label": "31.060.70 Power capacitors"
+	},
+	{
+		"value": "31.060.50",
+		"label": "31.060.50 Aluminium electrolytic capacitors"
+	},
+	{
+		"value": "31.060.99",
+		"label": "31.060.99 Other capacitors"
+	},
+	{
+		"value": "31.040.01",
+		"label": "31.040.01 Resistors in general"
+	},
+	{
+		"value": "31.040.10",
+		"label": "31.040.10 Fixed resistors"
+	},
+	{
+		"value": "31.040.20",
+		"label": "31.040.20 Potentiometers"
+	},
+	{
+		"value": "31.040.30",
+		"label": "31.040.30 Thermistors"
+	},
+	{
+		"value": "31.040.99",
+		"label": "31.040.99 Other resistors"
+	},
+	{
+		"value": "31.080.01",
+		"label": "31.080.01 Semiconductor devices in general"
+	},
+	{
+		"value": "31.080.10",
+		"label": "31.080.10 Diodes"
+	},
+	{
+		"value": "31.080.20",
+		"label": "31.080.20 Thyristors"
+	},
+	{
+		"value": "31.080.30",
+		"label": "31.080.30 Transistors"
+	},
+	{
+		"value": "31.080.99",
+		"label": "31.080.99 Other semiconductor devices"
+	},
+	{
+		"value": "31.220.01",
+		"label": "31.220.01 Electromechanical components in general"
+	},
+	{
+		"value": "31.220.10",
+		"label": "31.220.10 Plug-and-socket devices. Connectors"
+	},
+	{
+		"value": "31.220.20",
+		"label": "31.220.20 Switches"
+	},
+	{
+		"value": "31.220.99",
+		"label": "31.220.99 Other electromechanical components"
+	},
+	{
+		"value": "35.040.10",
+		"label": "35.040.10 Coding of character sets"
+	},
+	{
+		"value": "35.040.01",
+		"label": "35.040.01 Information coding in general"
+	},
+	{
+		"value": "35.040.30",
+		"label": "35.040.30 Coding of graphical and photographical information"
+	},
+	{
+		"value": "35.040.40",
+		"label": "35.040.40 Coding of audio"
+	},
+	{
+		"value": "35.040.99",
+		"label": "35.040.99 Other standards related to information coding"
+	},
+	{
+		"value": "35.040.50",
+		"label": "35.040.50 Automatic identification and data capture techniques"
+	},
+	{
+		"value": "35.100.01",
+		"label": "35.100.01 Open systems interconnection in general"
+	},
+	{
+		"value": "35.100.05",
+		"label": "35.100.05 Multilayer applications"
+	},
+	{
+		"value": "35.100.10",
+		"label": "35.100.10 Physical layer"
+	},
+	{
+		"value": "35.100.20",
+		"label": "35.100.20 Data link layer"
+	},
+	{
+		"value": "35.100.40",
+		"label": "35.100.40 Transport layer"
+	},
+	{
+		"value": "35.100.30",
+		"label": "35.100.30 Network layer"
+	},
+	{
+		"value": "35.100.50",
+		"label": "35.100.50 Session layer"
+	},
+	{
+		"value": "35.100.60",
+		"label": "35.100.60 Presentation layer"
+	},
+	{
+		"value": "35.100.70",
+		"label": "35.100.70 Application layer"
+	},
+	{
+		"value": "35.220.10",
+		"label": "35.220.10 Paper cards and tapes"
+	},
+	{
+		"value": "35.220.20",
+		"label": "35.220.20 Magnetic storage devices in general"
+	},
+	{
+		"value": "35.220.21",
+		"label": "35.220.21 Magnetic disks"
+	},
+	{
+		"value": "35.220.01",
+		"label": "35.220.01 Data storage devices in general"
+	},
+	{
+		"value": "35.220.23",
+		"label": "35.220.23 Cassettes and cartridges for magnetic tapes"
+	},
+	{
+		"value": "35.220.30",
+		"label": "35.220.30 Optical storage devices"
+	},
+	{
+		"value": "35.220.22",
+		"label": "35.220.22 Magnetic tapes"
+	},
+	{
+		"value": "35.220.99",
+		"label": "35.220.99 Other data storage devices"
+	},
+	{
+		"value": "35.240.01",
+		"label": "35.240.01 Application of information technology in general"
+	},
+	{
+		"value": "35.240.15",
+		"label": "35.240.15 Identification cards. Chip cards. Biometrics"
+	},
+	{
+		"value": "35.240.20",
+		"label": "35.240.20 IT applications in office work"
+	},
+	{
+		"value": "35.240.30",
+		"label": "35.240.30 IT applications in information"
+	},
+	{
+		"value": "35.240.40",
+		"label": "35.240.40 IT applications in banking"
+	},
+	{
+		"value": "35.240.50",
+		"label": "35.240.50 IT applications in industry"
+	},
+	{
+		"value": "35.240.60",
+		"label": "35.240.60 IT applications in transport"
+	},
+	{
+		"value": "35.240.63",
+		"label": "35.240.63 IT applications in trade"
+	},
+	{
+		"value": "35.240.10",
+		"label": "35.240.10 Computer-aided design (CAD)"
+	},
+	{
+		"value": "35.240.67",
+		"label": "35.240.67 IT applications in building and construction industry"
+	},
+	{
+		"value": "35.240.68",
+		"label": "35.240.68 IT applications in agriculture"
+	},
+	{
+		"value": "35.240.69",
+		"label": "35.240.69 IT applications in postal services"
+	},
+	{
+		"value": "35.240.80",
+		"label": "35.240.80 IT applications in health care technology"
+	},
+	{
+		"value": "35.240.90",
+		"label": "35.240.90 IT applications in education"
+	},
+	{
+		"value": "35.240.95",
+		"label": "35.240.95 Internet applications"
+	},
+	{
+		"value": "35.240.70",
+		"label": "35.240.70 IT applications in science"
+	},
+	{
+		"value": "35.240.99",
+		"label": "35.240.99 IT applications in other fields"
+	},
+	{
+		"value": "37.040.01",
+		"label": "37.040.01 Photography in general"
+	},
+	{
+		"value": "37.040.20",
+		"label": "37.040.20 Photographic paper"
+	},
+	{
+		"value": "37.040.25",
+		"label": "37.040.25 Radiographic films"
+	},
+	{
+		"value": "37.040.30",
+		"label": "37.040.30 Photographic chemicals"
+	},
+	{
+		"value": "37.040.99",
+		"label": "37.040.99 Other standards related to photography"
+	},
+	{
+		"value": "37.060.01",
+		"label": "37.060.01 Cinematography in general"
+	},
+	{
+		"value": "37.040.10",
+		"label": "37.040.10 Photographic equipment. Projectors"
+	},
+	{
+		"value": "37.060.10",
+		"label": "37.060.10 Motion picture equipment"
+	},
+	{
+		"value": "37.060.99",
+		"label": "37.060.99 Other standards related to cinematography"
+	},
+	{
+		"value": "37.060.20",
+		"label": "37.060.20 Motion picture films. Cartridges"
+	},
+	{
+		"value": "37.100.01",
+		"label": "37.100.01 Graphic technology in general"
+	},
+	{
+		"value": "37.100.10",
+		"label": "37.100.10 Reproduction equipment"
+	},
+	{
+		"value": "37.100.20",
+		"label": "37.100.20 Materials for graphic technology"
+	},
+	{
+		"value": "37.100.99",
+		"label": "37.100.99 Other standards related to graphic technology"
+	},
+	{
+		"value": "39.040.10",
+		"label": "39.040.10 Watches"
+	},
+	{
+		"value": "39.040.01",
+		"label": "39.040.01 Horology in general"
+	},
+	{
+		"value": "39.040.99",
+		"label": "39.040.99 Other time-measuring instruments"
+	},
+	{
+		"value": "45.060.01",
+		"label": "45.060.01 Railway rolling stock in general"
+	},
+	{
+		"value": "39.040.20",
+		"label": "39.040.20 Clocks"
+	},
+	{
+		"value": "45.060.10",
+		"label": "45.060.10 Tractive stock"
+	},
+	{
+		"value": "45.060.20",
+		"label": "45.060.20 Trailing stock"
+	},
+	{
+		"value": "47.020.05",
+		"label": "47.020.05 Materials and components for shipbuilding"
+	},
+	{
+		"value": "47.020.01",
+		"label": "47.020.01 General standards related to shipbuilding and marine structures"
+	},
+	{
+		"value": "47.020.20",
+		"label": "47.020.20 Marine engines and propulsion systems"
+	},
+	{
+		"value": "47.020.30",
+		"label": "47.020.30 Piping systems"
+	},
+	{
+		"value": "47.020.40",
+		"label": "47.020.40 Lifting and cargo handling equipment"
+	},
+	{
+		"value": "47.020.50",
+		"label": "47.020.50 Deck equipment and installations"
+	},
+	{
+		"value": "47.020.60",
+		"label": "47.020.60 Electrical equipment of ships and of marine structures"
+	},
+	{
+		"value": "47.020.10",
+		"label": "47.020.10 Hulls and their structure elements"
+	},
+	{
+		"value": "47.020.70",
+		"label": "47.020.70 Navigation and control equipment"
+	},
+	{
+		"value": "47.020.80",
+		"label": "47.020.80 Accommodation spaces"
+	},
+	{
+		"value": "47.020.85",
+		"label": "47.020.85 Cargo spaces"
+	},
+	{
+		"value": "47.020.90",
+		"label": "47.020.90 Marine ventilation"
+	},
+	{
+		"value": "47.020.99",
+		"label": "47.020.99 Other standards related to shipbuilding and marine structures"
+	},
+	{
+		"value": "43.040.01",
+		"label": "43.040.01 Road vehicle systems in general"
+	},
+	{
+		"value": "43.040.15",
+		"label": "43.040.15 Car informatics. On board computer systems"
+	},
+	{
+		"value": "43.040.10",
+		"label": "43.040.10 Electrical and electronic equipment"
+	},
+	{
+		"value": "43.040.20",
+		"label": "43.040.20 Lighting"
+	},
+	{
+		"value": "43.040.30",
+		"label": "43.040.30 Indicating and control devices"
+	},
+	{
+		"value": "43.040.40",
+		"label": "43.040.40 Braking systems"
+	},
+	{
+		"value": "43.040.50",
+		"label": "43.040.50 Transmissions"
+	},
+	{
+		"value": "43.040.60",
+		"label": "43.040.60 Bodies and body components"
+	},
+	{
+		"value": "43.040.70",
+		"label": "43.040.70 Couplings"
+	},
+	{
+		"value": "43.040.65",
+		"label": "43.040.65 Glazing and wiper systems"
+	},
+	{
+		"value": "43.040.80",
+		"label": "43.040.80 Crash protection and restraint systems"
+	},
+	{
+		"value": "43.040.99",
+		"label": "43.040.99 Other road vehicle systems"
+	},
+	{
+		"value": "43.060.10",
+		"label": "43.060.10 Engine block and internal components"
+	},
+	{
+		"value": "43.060.01",
+		"label": "43.060.01 Internal combustion engines for road vehicles in general"
+	},
+	{
+		"value": "43.060.20",
+		"label": "43.060.20 Pressure charging and air/exhaust gas ducting systems"
+	},
+	{
+		"value": "43.060.30",
+		"label": "43.060.30 Cooling systems. Lubricating systems"
+	},
+	{
+		"value": "43.060.50",
+		"label": "43.060.50 Electrical and electronic equipment. Control systems"
+	},
+	{
+		"value": "43.060.40",
+		"label": "43.060.40 Fuel systems"
+	},
+	{
+		"value": "43.060.99",
+		"label": "43.060.99 Other components and systems of internal combustion engines"
+	},
+	{
+		"value": "43.080.01",
+		"label": "43.080.01 Commercial vehicles in general"
+	},
+	{
+		"value": "43.080.20",
+		"label": "43.080.20 Buses"
+	},
+	{
+		"value": "43.080.10",
+		"label": "43.080.10 Trucks and trailers"
+	},
+	{
+		"value": "49.030.01",
+		"label": "49.030.01 Fasteners in general"
+	},
+	{
+		"value": "43.080.99",
+		"label": "43.080.99 Other commercial vehicles"
+	},
+	{
+		"value": "49.030.10",
+		"label": "49.030.10 Screw threads"
+	},
+	{
+		"value": "49.030.20",
+		"label": "49.030.20 Bolts"
+	},
+	{
+		"value": "49.030.40",
+		"label": "49.030.40 Pins"
+	},
+	{
+		"value": "49.030.30",
+		"label": "49.030.30 Nuts"
+	},
+	{
+		"value": "49.030.60",
+		"label": "49.030.60 Rivets"
+	},
+	{
+		"value": "49.030.50",
+		"label": "49.030.50 Washers and other locking elements"
+	},
+	{
+		"value": "49.030.99",
+		"label": "49.030.99 Other fasteners"
+	},
+	{
+		"value": "49.025.05",
+		"label": "49.025.05 Ferrous alloys in general"
+	},
+	{
+		"value": "49.025.01",
+		"label": "49.025.01 Materials for aerospace construction in general"
+	},
+	{
+		"value": "49.025.15",
+		"label": "49.025.15 Non-ferrous alloys in general"
+	},
+	{
+		"value": "49.025.10",
+		"label": "49.025.10 Steels"
+	},
+	{
+		"value": "49.025.20",
+		"label": "49.025.20 Aluminium"
+	},
+	{
+		"value": "49.025.40",
+		"label": "49.025.40 Rubber and plastics"
+	},
+	{
+		"value": "49.025.30",
+		"label": "49.025.30 Titanium"
+	},
+	{
+		"value": "49.025.50",
+		"label": "49.025.50 Adhesives"
+	},
+	{
+		"value": "49.025.60",
+		"label": "49.025.60 Textiles"
+	},
+	{
+		"value": "49.025.99",
+		"label": "49.025.99 Other materials"
+	},
+	{
+		"value": "53.020.01",
+		"label": "53.020.01 Lifting appliances in general"
+	},
+	{
+		"value": "53.020.20",
+		"label": "53.020.20 Cranes"
+	},
+	{
+		"value": "53.020.99",
+		"label": "53.020.99 Other lifting equipment"
+	},
+	{
+		"value": "53.020.30",
+		"label": "53.020.30 Accessories for lifting equipment"
+	},
+	{
+		"value": "55.180.01",
+		"label": "55.180.01 Freight distribution of goods in general"
+	},
+	{
+		"value": "55.180.10",
+		"label": "55.180.10 General purpose containers"
+	},
+	{
+		"value": "55.180.30",
+		"label": "55.180.30 Air mode containers"
+	},
+	{
+		"value": "55.180.40",
+		"label": "55.180.40 Complete"
+	},
+	{
+		"value": "55.180.99",
+		"label": "55.180.99 Other standards related to freight distribution of goods"
+	},
+	{
+		"value": "55.180.20",
+		"label": "55.180.20 General purpose pallets"
+	},
+	{
+		"value": "53.040.01",
+		"label": "53.040.01 Continuous handling equipment in general"
+	},
+	{
+		"value": "53.040.10",
+		"label": "53.040.10 Conveyors"
+	},
+	{
+		"value": "53.040.30",
+		"label": "53.040.30 Pneumatic transport and its components"
+	},
+	{
+		"value": "53.040.99",
+		"label": "53.040.99 Other continuous handling equipment"
+	},
+	{
+		"value": "59.060.01",
+		"label": "59.060.01 Textile fibres in general"
+	},
+	{
+		"value": "59.060.10",
+		"label": "59.060.10 Natural fibres"
+	},
+	{
+		"value": "53.040.20",
+		"label": "53.040.20 Components for conveyors"
+	},
+	{
+		"value": "59.060.30",
+		"label": "59.060.30 Mineral and metal fibres"
+	},
+	{
+		"value": "59.060.99",
+		"label": "59.060.99 Other textile fibres"
+	},
+	{
+		"value": "59.060.20",
+		"label": "59.060.20 Man-made fibres"
+	},
+	{
+		"value": "59.080.01",
+		"label": "59.080.01 Textiles in general"
+	},
+	{
+		"value": "59.080.20",
+		"label": "59.080.20 Yarns"
+	},
+	{
+		"value": "59.080.30",
+		"label": "59.080.30 Textile fabrics"
+	},
+	{
+		"value": "59.080.40",
+		"label": "59.080.40 Coated fabrics"
+	},
+	{
+		"value": "59.080.50",
+		"label": "59.080.50 Ropes"
+	},
+	{
+		"value": "59.080.80",
+		"label": "59.080.80 Smart textiles"
+	},
+	{
+		"value": "59.080.99",
+		"label": "59.080.99 Other products of the textile industry"
+	},
+	{
+		"value": "59.120.01",
+		"label": "59.120.01 Textile machinery in general"
+	},
+	{
+		"value": "59.080.70",
+		"label": "59.080.70 Geotextiles"
+	},
+	{
+		"value": "59.120.10",
+		"label": "59.120.10 Spinning"
+	},
+	{
+		"value": "59.120.20",
+		"label": "59.120.20 Winding machines and equipment"
+	},
+	{
+		"value": "59.120.40",
+		"label": "59.120.40 Knitting machines"
+	},
+	{
+		"value": "59.120.30",
+		"label": "59.120.30 Looms. Weaving machines"
+	},
+	{
+		"value": "59.120.99",
+		"label": "59.120.99 Other textile machinery"
+	},
+	{
+		"value": "59.100.01",
+		"label": "59.100.01 Materials for the reinforcement of composites in general"
+	},
+	{
+		"value": "59.120.50",
+		"label": "59.120.50 Dyeing and finishing equipment"
+	},
+	{
+		"value": "59.100.10",
+		"label": "59.100.10 Textile glass materials"
+	},
+	{
+		"value": "59.100.30",
+		"label": "59.100.30 Aramide materials"
+	},
+	{
+		"value": "59.100.20",
+		"label": "59.100.20 Carbon materials"
+	},
+	{
+		"value": "59.140.01",
+		"label": "59.140.01 Leather technology in general"
+	},
+	{
+		"value": "59.100.99",
+		"label": "59.100.99 Other materials for the reinforcement of composites"
+	},
+	{
+		"value": "59.140.20",
+		"label": "59.140.20 Raw skins"
+	},
+	{
+		"value": "59.140.30",
+		"label": "59.140.30 Leather and furs"
+	},
+	{
+		"value": "59.140.10",
+		"label": "59.140.10 Processes and auxiliary materials"
+	},
+	{
+		"value": "59.140.35",
+		"label": "59.140.35 Leather products"
+	},
+	{
+		"value": "59.140.99",
+		"label": "59.140.99 Other standards related to leather technology"
+	},
+	{
+		"value": "65.020.01",
+		"label": "65.020.01 Farming and forestry in general"
+	},
+	{
+		"value": "65.020.20",
+		"label": "65.020.20 Plant growing"
+	},
+	{
+		"value": "65.020.30",
+		"label": "65.020.30 Animal husbandry and breeding"
+	},
+	{
+		"value": "65.020.40",
+		"label": "65.020.40 Landscaping and silviculture"
+	},
+	{
+		"value": "65.020.99",
+		"label": "65.020.99 Other standards related to farming and forestry"
+	},
+	{
+		"value": "65.040.01",
+		"label": "65.040.01 Farm buildings and installations in general"
+	},
+	{
+		"value": "65.040.10",
+		"label": "65.040.10 Livestock buildings"
+	},
+	{
+		"value": "65.040.20",
+		"label": "65.040.20 Buildings and installations for processing and storage of agricultural produce"
+	},
+	{
+		"value": "65.040.30",
+		"label": "65.040.30 Greenhouses and other installations"
+	},
+	{
+		"value": "65.040.99",
+		"label": "65.040.99 Other standards related to farm buildings and installations"
+	},
+	{
+		"value": "59.140.40",
+		"label": "59.140.40 Machines and equipment for leather and fur production"
+	},
+	{
+		"value": "65.060.01",
+		"label": "65.060.01 Agricultural machines and equipment in general"
+	},
+	{
+		"value": "65.060.10",
+		"label": "65.060.10 Agricultural tractors and trailed vehicles"
+	},
+	{
+		"value": "65.060.25",
+		"label": "65.060.25 Equipment for storage"
+	},
+	{
+		"value": "65.060.20",
+		"label": "65.060.20 Soil-working equipment"
+	},
+	{
+		"value": "65.060.30",
+		"label": "65.060.30 Sowing and planting equipment"
+	},
+	{
+		"value": "65.060.40",
+		"label": "65.060.40 Plant care equipment"
+	},
+	{
+		"value": "65.060.35",
+		"label": "65.060.35 Irrigation and drainage equipment"
+	},
+	{
+		"value": "65.060.60",
+		"label": "65.060.60 Viticultural and wine-making equipment"
+	},
+	{
+		"value": "65.060.50",
+		"label": "65.060.50 Harvesting equipment"
+	},
+	{
+		"value": "65.060.80",
+		"label": "65.060.80 Forestry equipment"
+	},
+	{
+		"value": "65.060.70",
+		"label": "65.060.70 Horticultural equipment"
+	},
+	{
+		"value": "65.060.99",
+		"label": "65.060.99 Other agricultural machines and equipment"
+	},
+	{
+		"value": "65.100.10",
+		"label": "65.100.10 Insecticides"
+	},
+	{
+		"value": "65.100.20",
+		"label": "65.100.20 Herbicides"
+	},
+	{
+		"value": "65.100.01",
+		"label": "65.100.01 Pesticides and other agrochemicals in general"
+	},
+	{
+		"value": "65.100.99",
+		"label": "65.100.99 Other pesticides and agrochemicals"
+	},
+	{
+		"value": "65.100.30",
+		"label": "65.100.30 Fungicides"
+	},
+	{
+		"value": "67.100.01",
+		"label": "67.100.01 Milk and milk products in general"
+	},
+	{
+		"value": "67.100.20",
+		"label": "67.100.20 Butter"
+	},
+	{
+		"value": "67.100.10",
+		"label": "67.100.10 Milk and processed milk products"
+	},
+	{
+		"value": "67.100.30",
+		"label": "67.100.30 Cheese"
+	},
+	{
+		"value": "67.100.99",
+		"label": "67.100.99 Other milk products"
+	},
+	{
+		"value": "67.080.01",
+		"label": "67.080.01 Fruits"
+	},
+	{
+		"value": "67.100.40",
+		"label": "67.100.40 Ice cream and ice confectionery"
+	},
+	{
+		"value": "67.080.10",
+		"label": "67.080.10 Fruits and derived products"
+	},
+	{
+		"value": "67.080.20",
+		"label": "67.080.20 Vegetables and derived products"
+	},
+	{
+		"value": "67.160.10",
+		"label": "67.160.10 Alcoholic beverages"
+	},
+	{
+		"value": "67.160.20",
+		"label": "67.160.20 Non-alcoholic beverages"
+	},
+	{
+		"value": "67.160.01",
+		"label": "67.160.01 Beverages in general"
+	},
+	{
+		"value": "67.120.10",
+		"label": "67.120.10 Meat and meat products"
+	},
+	{
+		"value": "67.120.01",
+		"label": "67.120.01 Animal produce in general"
+	},
+	{
+		"value": "67.120.30",
+		"label": "67.120.30 Fish and fishery products"
+	},
+	{
+		"value": "67.120.99",
+		"label": "67.120.99 Other animal produce"
+	},
+	{
+		"value": "67.140.10",
+		"label": "67.140.10 Tea"
+	},
+	{
+		"value": "67.140.20",
+		"label": "67.140.20 Coffee and coffee substitutes"
+	},
+	{
+		"value": "67.140.30",
+		"label": "67.140.30 Cocoa"
+	},
+	{
+		"value": "67.120.20",
+		"label": "67.120.20 Poultry and eggs"
+	},
+	{
+		"value": "67.180.20",
+		"label": "67.180.20 Starch and derived products"
+	},
+	{
+		"value": "67.180.10",
+		"label": "67.180.10 Sugar and sugar products"
+	},
+	{
+		"value": "67.200.10",
+		"label": "67.200.10 Animal and vegetable fats and oils"
+	},
+	{
+		"value": "67.200.20",
+		"label": "67.200.20 Oilseeds"
+	},
+	{
+		"value": "67.220.20",
+		"label": "67.220.20 Food additives"
+	},
+	{
+		"value": "73.060.01",
+		"label": "73.060.01 Metalliferous minerals in general"
+	},
+	{
+		"value": "73.060.10",
+		"label": "73.060.10 Iron ores"
+	},
+	{
+		"value": "67.220.10",
+		"label": "67.220.10 Spices and condiments"
+	},
+	{
+		"value": "73.060.30",
+		"label": "73.060.30 Chromium ores"
+	},
+	{
+		"value": "73.060.40",
+		"label": "73.060.40 Aluminium ores"
+	},
+	{
+		"value": "73.060.20",
+		"label": "73.060.20 Manganese ores"
+	},
+	{
+		"value": "73.100.01",
+		"label": "73.100.01 Mining equipment in general"
+	},
+	{
+		"value": "73.100.10",
+		"label": "73.100.10 Tunnelling and tubing equipment"
+	},
+	{
+		"value": "73.100.20",
+		"label": "73.100.20 Ventilation"
+	},
+	{
+		"value": "73.060.99",
+		"label": "73.060.99 Other metalliferous minerals"
+	},
+	{
+		"value": "73.100.40",
+		"label": "73.100.40 Haulage and hoisting equipment"
+	},
+	{
+		"value": "73.100.30",
+		"label": "73.100.30 Equipment for drilling and mine excavation"
+	},
+	{
+		"value": "73.100.99",
+		"label": "73.100.99 Other mining equipment"
+	},
+	{
+		"value": "71.040.01",
+		"label": "71.040.01 Analytical chemistry in general"
+	},
+	{
+		"value": "71.040.20",
+		"label": "71.040.20 Laboratory ware and related apparatus"
+	},
+	{
+		"value": "71.040.30",
+		"label": "71.040.30 Chemical reagents"
+	},
+	{
+		"value": "71.040.40",
+		"label": "71.040.40 Chemical analysis"
+	},
+	{
+		"value": "71.040.50",
+		"label": "71.040.50 Physicochemical methods of analysis"
+	},
+	{
+		"value": "71.040.10",
+		"label": "71.040.10 Chemical laboratories. Laboratory equipment"
+	},
+	{
+		"value": "71.060.01",
+		"label": "71.060.01 Inorganic chemicals in general"
+	},
+	{
+		"value": "71.040.99",
+		"label": "71.040.99 Other standards related to analytical chemistry"
+	},
+	{
+		"value": "71.060.20",
+		"label": "71.060.20 Oxides"
+	},
+	{
+		"value": "71.060.30",
+		"label": "71.060.30 Acids"
+	},
+	{
+		"value": "71.060.10",
+		"label": "71.060.10 Chemical elements"
+	},
+	{
+		"value": "71.060.40",
+		"label": "71.060.40 Bases"
+	},
+	{
+		"value": "71.060.99",
+		"label": "71.060.99 Other inorganic chemicals"
+	},
+	{
+		"value": "71.080.01",
+		"label": "71.080.01 Organic chemicals in general"
+	},
+	{
+		"value": "71.080.10",
+		"label": "71.080.10 Aliphatic hydrocarbons"
+	},
+	{
+		"value": "71.080.15",
+		"label": "71.080.15 Aromatic hydrocarbons"
+	},
+	{
+		"value": "71.080.20",
+		"label": "71.080.20 Halogenated hydrocarbons"
+	},
+	{
+		"value": "71.060.50",
+		"label": "71.060.50 Salts"
+	},
+	{
+		"value": "71.080.30",
+		"label": "71.080.30 Organic nitrogen compounds"
+	},
+	{
+		"value": "71.080.40",
+		"label": "71.080.40 Organic acids"
+	},
+	{
+		"value": "71.080.50",
+		"label": "71.080.50 Anhydrides"
+	},
+	{
+		"value": "71.080.60",
+		"label": "71.080.60 Alcohols. Ethers"
+	},
+	{
+		"value": "71.080.80",
+		"label": "71.080.80 Aldehydes and ketones"
+	},
+	{
+		"value": "71.080.70",
+		"label": "71.080.70 Esters"
+	},
+	{
+		"value": "71.080.90",
+		"label": "71.080.90 Phenols"
+	},
+	{
+		"value": "71.080.99",
+		"label": "71.080.99 Other organic chemicals"
+	},
+	{
+		"value": "71.100.01",
+		"label": "71.100.01 Products of the chemical industry in general"
+	},
+	{
+		"value": "71.100.20",
+		"label": "71.100.20 Gases for industrial application"
+	},
+	{
+		"value": "71.100.30",
+		"label": "71.100.30 Explosives. Pyrotechnics and fireworks"
+	},
+	{
+		"value": "71.100.35",
+		"label": "71.100.35 Chemicals for industrial and domestic disinfection purposes"
+	},
+	{
+		"value": "71.100.10",
+		"label": "71.100.10 Materials for aluminium production"
+	},
+	{
+		"value": "71.100.40",
+		"label": "71.100.40 Surface active agents"
+	},
+	{
+		"value": "71.100.45",
+		"label": "71.100.45 Refrigerants and antifreezes"
+	},
+	{
+		"value": "71.100.50",
+		"label": "71.100.50 Wood-protecting chemicals"
+	},
+	{
+		"value": "71.100.55",
+		"label": "71.100.55 Silicones"
+	},
+	{
+		"value": "71.100.60",
+		"label": "71.100.60 Essential oils"
+	},
+	{
+		"value": "71.100.70",
+		"label": "71.100.70 Cosmetics. Toiletries"
+	},
+	{
+		"value": "71.100.80",
+		"label": "71.100.80 Chemicals for purification of water"
+	},
+	{
+		"value": "71.100.99",
+		"label": "71.100.99 Other products of the chemical industry"
+	},
+	{
+		"value": "71.120.01",
+		"label": "71.120.01 Equipment for the chemical industry in general"
+	},
+	{
+		"value": "71.120.20",
+		"label": "71.120.20 Columns"
+	},
+	{
+		"value": "71.120.10",
+		"label": "71.120.10 Reaction vessels and their components"
+	},
+	{
+		"value": "71.120.30",
+		"label": "71.120.30 Heat exchangers"
+	},
+	{
+		"value": "71.120.99",
+		"label": "71.120.99 Other equipment for the chemical industry"
+	},
+	{
+		"value": "75.160.10",
+		"label": "75.160.10 Solid fuels"
+	},
+	{
+		"value": "75.160.20",
+		"label": "75.160.20 Liquid fuels"
+	},
+	{
+		"value": "75.160.01",
+		"label": "75.160.01 Fuels in general"
+	},
+	{
+		"value": "75.160.40",
+		"label": "75.160.40 Biofuels"
+	},
+	{
+		"value": "75.160.30",
+		"label": "75.160.30 Gaseous fuels"
+	},
+	{
+		"value": "75.180.01",
+		"label": "75.180.01 Equipment for petroleum and natural gas industries in general"
+	},
+	{
+		"value": "75.180.10",
+		"label": "75.180.10 Exploratory"
+	},
+	{
+		"value": "75.180.20",
+		"label": "75.180.20 Processing equipment"
+	},
+	{
+		"value": "75.180.30",
+		"label": "75.180.30 Volumetric equipment and measurements"
+	},
+	{
+		"value": "75.180.99",
+		"label": "75.180.99 Other equipment for petroleum and natural gas industries"
+	},
+	{
+		"value": "79.060.01",
+		"label": "79.060.01 Wood-based panels in general"
+	},
+	{
+		"value": "79.060.20",
+		"label": "79.060.20 Fibre and particle boards"
+	},
+	{
+		"value": "79.060.10",
+		"label": "79.060.10 Plywood"
+	},
+	{
+		"value": "79.120.01",
+		"label": "79.120.01 Woodworking equipment in general"
+	},
+	{
+		"value": "79.120.10",
+		"label": "79.120.10 Woodworking machines"
+	},
+	{
+		"value": "79.120.20",
+		"label": "79.120.20 Woodworking tools"
+	},
+	{
+		"value": "79.120.99",
+		"label": "79.120.99 Other woodworking equipment"
+	},
+	{
+		"value": "77.040.01",
+		"label": "77.040.01 Testing of metals in general"
+	},
+	{
+		"value": "77.040.10",
+		"label": "77.040.10 Mechanical testing of metals"
+	},
+	{
+		"value": "79.060.99",
+		"label": "79.060.99 Other wood-based panels"
+	},
+	{
+		"value": "77.040.30",
+		"label": "77.040.30 Chemical analysis of metals"
+	},
+	{
+		"value": "77.040.99",
+		"label": "77.040.99 Other methods of testing of metals"
+	},
+	{
+		"value": "77.080.01",
+		"label": "77.080.01 Ferrous metals in general"
+	},
+	{
+		"value": "77.080.10",
+		"label": "77.080.10 Irons"
+	},
+	{
+		"value": "77.080.20",
+		"label": "77.080.20 Steels"
+	},
+	{
+		"value": "77.120.01",
+		"label": "77.120.01 Non-ferrous metals in general"
+	},
+	{
+		"value": "77.040.20",
+		"label": "77.040.20 Non-destructive testing of metals"
+	},
+	{
+		"value": "77.120.10",
+		"label": "77.120.10 Aluminium and aluminium alloys"
+	},
+	{
+		"value": "77.120.20",
+		"label": "77.120.20 Magnesium and magnesium alloys"
+	},
+	{
+		"value": "77.120.30",
+		"label": "77.120.30 Copper and copper alloys"
+	},
+	{
+		"value": "77.120.50",
+		"label": "77.120.50 Titanium and titanium alloys"
+	},
+	{
+		"value": "77.120.60",
+		"label": "77.120.60 Lead"
+	},
+	{
+		"value": "77.120.40",
+		"label": "77.120.40 Nickel"
+	},
+	{
+		"value": "77.120.99",
+		"label": "77.120.99 Other non-ferrous metals and their alloys"
+	},
+	{
+		"value": "77.120.70",
+		"label": "77.120.70 Cadmium"
+	},
+	{
+		"value": "77.140.10",
+		"label": "77.140.10 Heat-treatable steels"
+	},
+	{
+		"value": "77.140.15",
+		"label": "77.140.15 Steels for reinforcement of concrete"
+	},
+	{
+		"value": "77.140.01",
+		"label": "77.140.01 Iron and steel products in general"
+	},
+	{
+		"value": "77.140.25",
+		"label": "77.140.25 Spring steels"
+	},
+	{
+		"value": "77.140.30",
+		"label": "77.140.30 Steels for pressure purposes"
+	},
+	{
+		"value": "77.140.35",
+		"label": "77.140.35 Tool steels"
+	},
+	{
+		"value": "77.140.40",
+		"label": "77.140.40 Steels with special magnetic properties"
+	},
+	{
+		"value": "77.140.20",
+		"label": "77.140.20 Stainless steels"
+	},
+	{
+		"value": "77.140.45",
+		"label": "77.140.45 Non-alloyed steels"
+	},
+	{
+		"value": "77.140.50",
+		"label": "77.140.50 Flat steel products and semi-products"
+	},
+	{
+		"value": "77.140.60",
+		"label": "77.140.60 Steel bars and rods"
+	},
+	{
+		"value": "77.140.70",
+		"label": "77.140.70 Steel profiles"
+	},
+	{
+		"value": "77.140.75",
+		"label": "77.140.75 Steel pipes and tubes for specific use"
+	},
+	{
+		"value": "77.140.80",
+		"label": "77.140.80 Iron and steel castings"
+	},
+	{
+		"value": "77.140.85",
+		"label": "77.140.85 Iron and steel forgings"
+	},
+	{
+		"value": "77.140.65",
+		"label": "77.140.65 Steel wire"
+	},
+	{
+		"value": "77.140.99",
+		"label": "77.140.99 Other iron and steel products"
+	},
+	{
+		"value": "77.150.01",
+		"label": "77.150.01 Products of non-ferrous metals in general"
+	},
+	{
+		"value": "77.150.20",
+		"label": "77.150.20 Magnesium products"
+	},
+	{
+		"value": "77.150.10",
+		"label": "77.150.10 Aluminium products"
+	},
+	{
+		"value": "77.150.30",
+		"label": "77.150.30 Copper products"
+	},
+	{
+		"value": "77.150.40",
+		"label": "77.150.40 Nickel and chromium products"
+	},
+	{
+		"value": "77.150.50",
+		"label": "77.150.50 Titanium products"
+	},
+	{
+		"value": "77.150.70",
+		"label": "77.150.70 Cadmium and cobalt products"
+	},
+	{
+		"value": "77.150.99",
+		"label": "77.150.99 Other products of non-ferrous metals"
+	},
+	{
+		"value": "81.060.01",
+		"label": "81.060.01 Ceramics in general"
+	},
+	{
+		"value": "81.060.10",
+		"label": "81.060.10 Raw materials"
+	},
+	{
+		"value": "81.060.20",
+		"label": "81.060.20 Ceramic products"
+	},
+	{
+		"value": "81.060.30",
+		"label": "81.060.30 Advanced ceramics"
+	},
+	{
+		"value": "81.060.99",
+		"label": "81.060.99 Other standards related to ceramics"
+	},
+	{
+		"value": "81.040.01",
+		"label": "81.040.01 Glass in general"
+	},
+	{
+		"value": "81.040.10",
+		"label": "81.040.10 Raw materials and raw glass"
+	},
+	{
+		"value": "81.040.20",
+		"label": "81.040.20 Glass in building"
+	},
+	{
+		"value": "81.040.30",
+		"label": "81.040.30 Glass products"
+	},
+	{
+		"value": "85.080.01",
+		"label": "85.080.01 Paper products in general"
+	},
+	{
+		"value": "77.150.60",
+		"label": "77.150.60 Lead"
+	},
+	{
+		"value": "85.080.20",
+		"label": "85.080.20 Tissue paper"
+	},
+	{
+		"value": "85.080.30",
+		"label": "85.080.30 Cardboard"
+	},
+	{
+		"value": "85.080.99",
+		"label": "85.080.99 Other paper products"
+	},
+	{
+		"value": "83.040.01",
+		"label": "83.040.01 Raw materials for rubber and plastics in general"
+	},
+	{
+		"value": "83.040.10",
+		"label": "83.040.10 Latex and raw rubber"
+	},
+	{
+		"value": "83.040.20",
+		"label": "83.040.20 Rubber compounding ingredients"
+	},
+	{
+		"value": "85.080.10",
+		"label": "85.080.10 Office paper"
+	},
+	{
+		"value": "83.040.30",
+		"label": "83.040.30 Auxiliary materials and additives for plastics"
+	},
+	{
+		"value": "83.080.10",
+		"label": "83.080.10 Thermosetting materials"
+	},
+	{
+		"value": "83.080.20",
+		"label": "83.080.20 Thermoplastic materials"
+	},
+	{
+		"value": "83.140.01",
+		"label": "83.140.01 Rubber and plastics products in general"
+	},
+	{
+		"value": "83.140.10",
+		"label": "83.140.10 Films and sheets"
+	},
+	{
+		"value": "83.140.20",
+		"label": "83.140.20 Laminated sheets"
+	},
+	{
+		"value": "83.140.30",
+		"label": "83.140.30 Plastics pipes and fittings for non fluid use"
+	},
+	{
+		"value": "83.140.40",
+		"label": "83.140.40 Hoses"
+	},
+	{
+		"value": "83.140.50",
+		"label": "83.140.50 Seals"
+	},
+	{
+		"value": "83.080.01",
+		"label": "83.080.01 Plastics in general"
+	},
+	{
+		"value": "83.140.99",
+		"label": "83.140.99 Other rubber and plastics products"
+	},
+	{
+		"value": "83.160.01",
+		"label": "83.160.01 Tyres in general"
+	},
+	{
+		"value": "83.160.10",
+		"label": "83.160.10 Road vehicle tyres"
+	},
+	{
+		"value": "83.160.30",
+		"label": "83.160.30 Tyres for agricultural machinery"
+	},
+	{
+		"value": "83.160.99",
+		"label": "83.160.99 Other tyres"
+	},
+	{
+		"value": "87.060.01",
+		"label": "87.060.01 Paint ingredients in general"
+	},
+	{
+		"value": "83.160.20",
+		"label": "83.160.20 Aircraft tyres"
+	},
+	{
+		"value": "87.060.20",
+		"label": "87.060.20 Binders"
+	},
+	{
+		"value": "87.060.30",
+		"label": "87.060.30 Solvents"
+	},
+	{
+		"value": "87.060.99",
+		"label": "87.060.99 Other paint ingredients"
+	},
+	{
+		"value": "91.010.01",
+		"label": "91.010.01 Construction industry in general"
+	},
+	{
+		"value": "91.010.10",
+		"label": "91.010.10 Legal aspects"
+	},
+	{
+		"value": "91.010.20",
+		"label": "91.010.20 Contractual aspects"
+	},
+	{
+		"value": "91.010.30",
+		"label": "91.010.30 Technical aspects"
+	},
+	{
+		"value": "91.010.99",
+		"label": "91.010.99 Other aspects"
+	},
+	{
+		"value": "91.040.01",
+		"label": "91.040.01 Buildings in general"
+	},
+	{
+		"value": "91.040.10",
+		"label": "91.040.10 Public buildings"
+	},
+	{
+		"value": "91.040.20",
+		"label": "91.040.20 Buildings for commerce and industry"
+	},
+	{
+		"value": "91.040.30",
+		"label": "91.040.30 Residential buildings"
+	},
+	{
+		"value": "87.060.10",
+		"label": "87.060.10 Pigments and extenders"
+	},
+	{
+		"value": "91.040.99",
+		"label": "91.040.99 Other buildings"
+	},
+	{
+		"value": "91.060.01",
+		"label": "91.060.01 Elements of buildings in general"
+	},
+	{
+		"value": "91.060.20",
+		"label": "91.060.20 Roofs"
+	},
+	{
+		"value": "91.060.10",
+		"label": "91.060.10 Walls. Partitions. Façades"
+	},
+	{
+		"value": "91.060.40",
+		"label": "91.060.40 Chimneys"
+	},
+	{
+		"value": "91.060.50",
+		"label": "91.060.50 Doors and windows"
+	},
+	{
+		"value": "91.060.30",
+		"label": "91.060.30 Ceilings. Floors. Stairs"
+	},
+	{
+		"value": "91.060.99",
+		"label": "91.060.99 Other elements of buildings"
+	},
+	{
+		"value": "91.080.01",
+		"label": "91.080.01 Structures of buildings in general"
+	},
+	{
+		"value": "91.080.10",
+		"label": "91.080.10 Metal structures"
+	},
+	{
+		"value": "91.080.17",
+		"label": "91.080.17 Aluminium structures"
+	},
+	{
+		"value": "91.080.13",
+		"label": "91.080.13 Steel structures"
+	},
+	{
+		"value": "91.080.20",
+		"label": "91.080.20 Timber structures"
+	},
+	{
+		"value": "91.080.30",
+		"label": "91.080.30 Masonry"
+	},
+	{
+		"value": "91.080.99",
+		"label": "91.080.99 Other structures"
+	},
+	{
+		"value": "91.100.01",
+		"label": "91.100.01 Construction materials in general"
+	},
+	{
+		"value": "91.100.10",
+		"label": "91.100.10 Cement. Gypsum. Lime. Mortar"
+	},
+	{
+		"value": "91.100.15",
+		"label": "91.100.15 Mineral materials and products"
+	},
+	{
+		"value": "91.100.23",
+		"label": "91.100.23 Ceramic tiles"
+	},
+	{
+		"value": "91.080.40",
+		"label": "91.080.40 Concrete structures"
+	},
+	{
+		"value": "91.100.25",
+		"label": "91.100.25 Terracotta building products"
+	},
+	{
+		"value": "91.100.30",
+		"label": "91.100.30 Concrete and concrete products"
+	},
+	{
+		"value": "91.100.40",
+		"label": "91.100.40 Products in fibre-reinforced cement"
+	},
+	{
+		"value": "91.100.50",
+		"label": "91.100.50 Binders. Sealing materials"
+	},
+	{
+		"value": "91.100.99",
+		"label": "91.100.99 Other construction materials"
+	},
+	{
+		"value": "91.120.01",
+		"label": "91.120.01 Protection of and in buildings in general"
+	},
+	{
+		"value": "91.100.60",
+		"label": "91.100.60 Thermal and sound insulating materials"
+	},
+	{
+		"value": "91.120.10",
+		"label": "91.120.10 Thermal insulation of buildings"
+	},
+	{
+		"value": "91.120.20",
+		"label": "91.120.20 Acoustics in building. Sound insulation"
+	},
+	{
+		"value": "91.120.25",
+		"label": "91.120.25 Seismic and vibration protection"
+	},
+	{
+		"value": "91.120.30",
+		"label": "91.120.30 Waterproofing"
+	},
+	{
+		"value": "91.120.99",
+		"label": "91.120.99 Other standards related to protection of and in buildings"
+	},
+	{
+		"value": "91.160.01",
+		"label": "91.160.01 Lighting in general"
+	},
+	{
+		"value": "91.160.10",
+		"label": "91.160.10 Interior lighting"
+	},
+	{
+		"value": "91.120.40",
+		"label": "91.120.40 Lightning protection"
+	},
+	{
+		"value": "91.160.20",
+		"label": "91.160.20 Exterior building lighting"
+	},
+	{
+		"value": "91.140.10",
+		"label": "91.140.10 Central heating systems"
+	},
+	{
+		"value": "91.140.01",
+		"label": "91.140.01 Installations in buildings in general"
+	},
+	{
+		"value": "91.140.30",
+		"label": "91.140.30 Ventilation and air-conditioning systems"
+	},
+	{
+		"value": "91.140.40",
+		"label": "91.140.40 Gas supply systems"
+	},
+	{
+		"value": "91.140.50",
+		"label": "91.140.50 Electricity supply systems"
+	},
+	{
+		"value": "91.140.60",
+		"label": "91.140.60 Water supply systems"
+	},
+	{
+		"value": "91.140.65",
+		"label": "91.140.65 Water heating equipment"
+	},
+	{
+		"value": "91.140.70",
+		"label": "91.140.70 Sanitary installations"
+	},
+	{
+		"value": "91.140.90",
+		"label": "91.140.90 Lifts. Escalators"
+	},
+	{
+		"value": "91.140.80",
+		"label": "91.140.80 Drainage systems"
+	},
+	{
+		"value": "91.140.99",
+		"label": "91.140.99 Other installations in buildings"
+	},
+	{
+		"value": "97.040.10",
+		"label": "97.040.10 Kitchen furniture"
+	},
+	{
+		"value": "97.040.01",
+		"label": "97.040.01 Kitchen equipment in general"
+	},
+	{
+		"value": "97.040.20",
+		"label": "97.040.20 Cooking ranges"
+	},
+	{
+		"value": "97.040.30",
+		"label": "97.040.30 Domestic refrigerating appliances"
+	},
+	{
+		"value": "97.040.50",
+		"label": "97.040.50 Small kitchen appliances"
+	},
+	{
+		"value": "97.040.40",
+		"label": "97.040.40 Dishwashers"
+	},
+	{
+		"value": "97.040.60",
+		"label": "97.040.60 Cookware"
+	},
+	{
+		"value": "97.040.99",
+		"label": "97.040.99 Other kitchen equipment"
+	},
+	{
+		"value": "93.080.01",
+		"label": "93.080.01 Road engineering in general"
+	},
+	{
+		"value": "93.080.10",
+		"label": "93.080.10 Road construction"
+	},
+	{
+		"value": "93.080.30",
+		"label": "93.080.30 Road equipment and installations"
+	},
+	{
+		"value": "93.080.20",
+		"label": "93.080.20 Road construction materials"
+	},
+	{
+		"value": "93.080.40",
+		"label": "93.080.40 Street lighting and related equipment"
+	},
+	{
+		"value": "93.080.99",
+		"label": "93.080.99 Other standards related to road engineering"
+	},
+	{
+		"value": "97.100.01",
+		"label": "97.100.01 Heating appliances in general"
+	},
+	{
+		"value": "97.100.10",
+		"label": "97.100.10 Electric heaters"
+	},
+	{
+		"value": "97.100.20",
+		"label": "97.100.20 Gas heaters"
+	},
+	{
+		"value": "97.100.40",
+		"label": "97.100.40 Liquid fuel heaters"
+	},
+	{
+		"value": "97.100.99",
+		"label": "97.100.99 Heaters using other sources of energy"
+	},
+	{
+		"value": "97.130.01",
+		"label": "97.130.01 Shop fittings in general"
+	},
+	{
+		"value": "97.130.10",
+		"label": "97.130.10 Shelving"
+	},
+	{
+		"value": "97.100.30",
+		"label": "97.100.30 Solid fuel heaters"
+	},
+	{
+		"value": "97.130.20",
+		"label": "97.130.20 Commercial refrigerating appliances"
+	},
+	{
+		"value": "97.130.30",
+		"label": "97.130.30 Trolleys for supermarket purposes"
+	},
+	{
+		"value": "97.130.99",
+		"label": "97.130.99 Other shop fittings"
+	},
+	{
+		"value": "97.200.10",
+		"label": "97.200.10 Theatre"
+	},
+	{
+		"value": "97.200.20",
+		"label": "97.200.20 Musical instruments"
+	},
+	{
+		"value": "97.200.01",
+		"label": "97.200.01 Equipment for entertainment in general"
+	},
+	{
+		"value": "97.200.30",
+		"label": "97.200.30 Camping equipment and camp-sites"
+	},
+	{
+		"value": "97.200.40",
+		"label": "97.200.40 Playgrounds"
+	},
+	{
+		"value": "97.200.99",
+		"label": "97.200.99 Other equipment for entertainment"
+	},
+	{
+		"value": "97.200.50",
+		"label": "97.200.50 Toys"
+	},
+	{
+		"value": "97.220.01",
+		"label": "97.220.01 Sports equipment and facilities in general"
+	},
+	{
+		"value": "97.220.10",
+		"label": "97.220.10 Sports facilities"
+	},
+	{
+		"value": "97.220.20",
+		"label": "97.220.20 Winter sports equipment"
+	},
+	{
+		"value": "97.220.30",
+		"label": "97.220.30 Indoor sports equipment"
+	},
+	{
+		"value": "97.220.40",
+		"label": "97.220.40 Outdoor and water sports equipment"
+	},
+	{
+		"value": "97.220.99",
+		"label": "97.220.99 Other sports equipment and facilities"
+	},
+	{
+		"value": ""
+	}
+]
