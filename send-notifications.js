@@ -71,13 +71,17 @@ const getData = async url => {
     			ics_product = '<strong>ICS Product:</strong>&nbsp;' + documents[i].ics_products.ics.code + ' ' + documents[i].ics_products.ics.name;
     		date_of_distribution = new Date(documents[i].date_of_distribution);
     		finaldate_for_comment = new Date(documents[i].finaldate_for_comment);
-    		if (documents[i].document_online_links) {
-                document_link_en = documents[i].document_online_links.url[0];
-                document_link_fr = documents[i].document_online_links.url[1];
-                document_link_es = documents[i].document_online_links.url[2];
-        		english_document_link = document_link_en[Object.keys(document_link_en)[0]];
-        		french_document_link = document_link_fr[Object.keys(document_link_fr)[0]];
-        		spanish_document_link = document_link_es[Object.keys(document_link_es)[0]];
+    		document_link_en = documents[i].document_online_links.url[0];
+            document_link_fr = documents[i].document_online_links.url[1];
+            document_link_es = documents[i].document_online_links.url[2];
+            if (english_document_link !=null){ 
+                english_document_link = document_link_en[Object.keys(document_link_en)[0]];
+            }
+            if (french_document_link !=null){
+    		  french_document_link = document_link_fr[Object.keys(document_link_fr)[0]];
+            }
+            if (spanish_document_link !=null){
+    		  spanish_document_link = document_link_es[Object.keys(document_link_es)[0]];
             }
     		emailbody += '<tr bgcolor="FFFFFF">';
     		emailbody +=  '<td width="10%" style="border:1px solid;word-wrap:break-word" align="center">';
