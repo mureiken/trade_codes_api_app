@@ -137,7 +137,7 @@ const sendMail = function(emailbody,recipient, user_id){
             console.error(error);
             knex('profiles_usernotification')
             .where({ id: id })
-            .update({ read_notification: 'e' })l
+            .update({ read_notification: 'e' })
         } else {
             knex('profiles_usernotification')
             .where({ id: id })
