@@ -143,7 +143,7 @@ const sendMail = function(emailbody,recipient, user_id){
             .where({ id: id })
             .update({ read_notification: 'y' });
         }
-    }
+   });
 }
 
 getData(url);
