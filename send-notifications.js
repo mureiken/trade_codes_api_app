@@ -2,6 +2,9 @@ const axios = require("axios");
 const nodeMailer = require('nodemailer');
 const striptags = require('striptags');
 const moment = require('moment');
+const API_KEY = '105fbc03fe215b49bbb7ae176faff9e9-4167c382-9f692dec';
+const DOMAIN = 'notifyke.kebs.org';
+const mailgun = require('mailgun-js')({apiKey: API_KEY, domain: DOMAIN});
 const knex = require('knex')({
   client: 'pg',
   connection: {
@@ -115,51 +118,33 @@ const getData = async url => {
   } catch (error) {
     console.log(error);
   }
-  // sendMail(emailbody, recipient);
+  
 };
 
 const sendMail = function(emailbody,recipient, user_id){
-  const transporter = nodeMailer.createTransport({
-    host: 'smtp.gmail.com',
-    port: 587,
-    //secure: false,  //true for 465 port, false for other ports
-    auth: {
-      user: 'kamau.murei@gmail.com',
-      pass: '123madison@!'
-    },
-  });
+    const id = user_id;
 
-  const mailOptions = {
-    from: '"Kamau Murei" <kamau.murei@gmail.com>', // sender address
-    to: 'mureiken@gmail.com', // list of receivers
-    subject: `New WTO TBT Notifications For You on ${moment().format("DD/MM/YYYY")}`, // Subject line
-    text: `${emailbody}`, // plain text body
-    html: `${emailbody}` // html body
-  };
+    const data = {
+      from: 'National Enquiry Point - Kenya <wto@notifyke.kebs.org>',
+      to: recipient,
+      subject: 'Hello',
+      text: `${emailbody}`, // plain text body
+      html: `${emailbody}` // html body
+    };
 
-  const id = user_id;
-
-  transporter.sendMail(mailOptions, (error, info) => {
-    if (error) {
-    	knex('profiles_usernotification')
-    	.where({ id: id })
-    	.update({ read_notification: 'e' })
-    	.catch(function(error) {
-    		console.error(error);
-    	});
-    } else {
-    	knex('profiles_usernotification')
-    	.where({ id: id })
-    	.update({ read_notification: 'y' })
-    	.catch(function(error) {
-    		console.error(error);
-    	});
+    mailgun.messages().send(data, (error, body) => {
+      if (error) {
+            console.error(error);
+            knex('profiles_usernotification')
+            .where({ id: id })
+            .update({ read_notification: 'e' })l
+        } else {
+            knex('profiles_usernotification')
+            .where({ id: id })
+            .update({ read_notification: 'y' });
+        }
     }
-  });
 }
 
-// const email = function (emailbody, recipient) {
-// 	console.log(emailbody)
-// }
 getData(url);
-//console.log(moment().format("DD/MM/YYYY")) 
+ 
