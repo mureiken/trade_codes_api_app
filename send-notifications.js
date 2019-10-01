@@ -74,13 +74,13 @@ const getData = async url => {
     		document_link_en = documents[i].document_online_links.url[0];
             document_link_fr = documents[i].document_online_links.url[1];
             document_link_es = documents[i].document_online_links.url[2];
-            if (english_document_link !=null){ 
+            if (document_link_en[Object.keys(document_link_en)[0] !=null){ 
                 english_document_link = document_link_en[Object.keys(document_link_en)[0]];
             }
-            if (french_document_link !=null){
+            if (document_link_fr[Object.keys(document_link_fr)[0] !=null){
     		  french_document_link = document_link_fr[Object.keys(document_link_fr)[0]];
             }
-            if (spanish_document_link !=null){
+            if (document_link_es[Object.keys(document_link_es)[0] !=null){
     		  spanish_document_link = document_link_es[Object.keys(document_link_es)[0]];
             }
     		emailbody += '<tr bgcolor="FFFFFF">';
