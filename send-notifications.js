@@ -16,7 +16,7 @@ const knex = require('knex')({
   }
 });
 
-const url = "http://localhost:8000/api/notifications/all";
+const url = "http://notifyke.kebs.org:8000/api/notifications/all";
 
 let id = null;
 
