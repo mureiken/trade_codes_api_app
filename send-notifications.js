@@ -76,12 +76,18 @@ const getData = async url => {
             document_link_es = documents[i].document_online_links.url[2];
             if (document_link_en !=null){ 
                 english_document_link = document_link_en[Object.keys(document_link_en)[0]];
+            } else {
+                english_document_link = 'Download link not available';
             }
             if (document_link_fr !=null){
     		  french_document_link = document_link_fr[Object.keys(document_link_fr)[0]];
+            } else {
+             french_document_link = 'Download link not available';
             }
             if (document_link_es !=null){
     		  spanish_document_link = document_link_es[Object.keys(document_link_es)[0]];
+            } else {
+                spanish_document_link = 'Download link not available';
             }
     		emailbody += '<tr bgcolor="FFFFFF">';
     		emailbody +=  '<td width="10%" style="border:1px solid;word-wrap:break-word" align="center">';
