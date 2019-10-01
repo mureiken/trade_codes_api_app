@@ -67,7 +67,7 @@ const getData = async url => {
     			covered_products = documents[i].covered_products;
     		if (documents[i].products)
     			hs_product = '<strong>HS Product:</strong>&nbsp;' + documents[i].products.product.code + ' ' + documents[i].products.product.name + '<br /><br /> ';
-    		if (documents[i].ics_products.ics)
+    		if (documents[i].ics_products)
     			ics_product = '<strong>ICS Product:</strong>&nbsp;' + documents[i].ics_products.ics.code + ' ' + documents[i].ics_products.ics.name;
     		date_of_distribution = new Date(documents[i].date_of_distribution);
     		finaldate_for_comment = new Date(documents[i].finaldate_for_comment);
