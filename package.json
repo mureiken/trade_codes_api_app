@@ -22,7 +22,7 @@
     "express": "^4.16.3",
     "knex": "^0.16.3",
     "mailgun-js": "^0.22.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.4.16",
     "node-cron": "^2.0.3",
     "nodemailer": "^5.1.1",
